@@ -1,0 +1,4488 @@
+TY  - JOUR
+TI  - Why securing smart grids is not just a straightforward consultancy exercise
+T2  - Security and Communication Networks
+VL  - 7
+IS  - 1
+SP  - 160
+EP  - 174
+PY  - 2014
+DO  - 10.1002/sec.703
+AU  - Line, M.B.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84894057586&doi=10.1002%2fsec.703&partnerID=40&md5=81f478e57fe92b11a213e904a77e4111
+ER  - 
+
+TY  - JOUR
+TI  - Wavelet-Based Multiresolution Smart Meter Privacy
+T2  - IEEE Transactions on Smart Grid
+VL  - 8
+IS  - 4
+SP  - 1710
+EP  - 1721
+PY  - 2017
+DO  - 10.1109/TSG.2015.2504395
+AU  - Engel, D.
+AU  - Eibl, G.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027698614&doi=10.1109%2fTSG.2015.2504395&partnerID=40&md5=25d07b1646aef6e66f2be9ce7562a611
+ER  - 
+
+TY  - CONF
+TI  - Verified computational differential privacy with applications to smart metering
+T2  - Proceedings of the Computer Security Foundations Workshop
+SP  - 287
+EP  - 301
+PY  - 2013
+DO  - 10.1109/CSF.2013.26
+AU  - Barthe, G.
+AU  - Danezis, G.
+AU  - Gregoire, B.
+AU  - Kunz, C.
+AU  - Zanella-Beguelin, S.
+N1  - Cited By :32
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6595835
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884999092&doi=10.1109%2fCSF.2013.26&partnerID=40&md5=441fcea5347e8c8ec3d59e417d3dcc8a
+ER  - 
+
+TY  - CONF
+TI  - Verifiable and privacy-preserving fine-grained data-collection for smart metering
+T2  - 2015 IEEE Conference on Communications and NetworkSecurity, CNS 2015
+SP  - 655
+EP  - 658
+PY  - 2015
+DO  - 10.1109/CNS.2015.7346882
+AU  - Ambrosin, M.
+AU  - Hosseini, H.
+AU  - Mandal, K.
+AU  - Conti, M.
+AU  - Poovendran, R.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7346882
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84966312216&doi=10.1109%2fCNS.2015.7346882&partnerID=40&md5=68266c99ba04cdf80653080c9722d897
+ER  - 
+
+TY  - JOUR
+TI  - Valuation of measurement data for low voltage network expansion planning
+T2  - Electric Power Systems Research
+VL  - 151
+SP  - 59
+EP  - 67
+PY  - 2017
+DO  - 10.1016/j.epsr.2017.05.017
+AU  - Nijhuis, M.
+AU  - Gibescu, M.
+AU  - Cobben, J.F.G.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019869412&doi=10.1016%2fj.epsr.2017.05.017&partnerID=40&md5=4d4179fe464ae33a61120aeb7feaebf7
+ER  - 
+
+TY  - CONF
+TI  - User daily behavior disturbance model to preserve privacy for smart metering
+T2  - 2016 IEEE 5th Global Conference on Consumer Electronics, GCCE 2016
+PY  - 2016
+DO  - 10.1109/GCCE.2016.7800396
+AU  - Wang, H.-K.
+AU  - Cheng, B.-C.
+AU  - Chen, H.
+AU  - Hsu, P.-H.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7800396
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010383470&doi=10.1109%2fGCCE.2016.7800396&partnerID=40&md5=cdc395d44fcd343f1f5fc20635f3c82a
+ER  - 
+
+TY  - CONF
+TI  - Unleashing Smart Cities efficient and sustainable energy policies with IoT based Unbundled Smart Meters
+T2  - 2016 IEEE International Conference on Emerging Technologies and Innovative Business Practices for the Transformation of Societies, EmergiTech 2016
+SP  - 112
+EP  - 117
+PY  - 2016
+DO  - 10.1109/EmergiTech.2016.7737321
+AU  - Sanduleac, M.
+AU  - Chimirel, C.L.
+AU  - Eremia, M.
+AU  - Toma, L.
+AU  - Cristian, C.
+AU  - Stanescu, D.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7737321
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85006804290&doi=10.1109%2fEmergiTech.2016.7737321&partnerID=40&md5=56f636e63a50b6aa388b058419fa1b42
+ER  - 
+
+TY  - CONF
+TI  - Towards smarter probes: In-network traffic capturing and processing
+T2  - Trustworthy Internet
+IS  - 208929
+SP  - 289
+EP  - 301
+PY  - 2011
+DO  - 10.1007/978-88-470-1818-1_22
+AU  - Bonelli, N.
+AU  - Di Pietro, A.
+AU  - Giordano, S.
+AU  - Procissi, G.
+AU  - Vitucci, F.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042149376&doi=10.1007%2f978-88-470-1818-1_22&partnerID=40&md5=12d4d7ae854fbdb60c222008c14875d4
+ER  - 
+
+TY  - CONF
+TI  - Towards Secure Metering Data Analysis via Distributed Differential Privacy
+T2  - Proceedings - 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2014
+SP  - 780
+EP  - 785
+PY  - 2014
+DO  - 10.1109/DSN.2014.82
+AU  - Liao, X.
+AU  - Formby, D.
+AU  - Day, C.
+AU  - Beyah, R.A.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6903641
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937131860&doi=10.1109%2fDSN.2014.82&partnerID=40&md5=7fdb0599a99201c49e907d95ef7f20e9
+ER  - 
+
+TY  - JOUR
+TI  - Towards efficient privacy-preserving data aggregation for advanced metering infrastructure
+T2  - International Journal of Computer Networks and Communications
+VL  - 9
+IS  - 5
+SP  - 95
+EP  - 119
+PY  - 2017
+DO  - 10.5121/ijcnc.2017.9508
+AU  - Alamatsaz, N.
+AU  - Boustani, A.
+AU  - Alamatsaz, N.
+AU  - Boustani, A.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032996170&doi=10.5121%2fijcnc.2017.9508&partnerID=40&md5=ab8fe6d2b3bf46d3e44a46d5f4040a5c
+ER  - 
+
+TY  - JOUR
+TI  - Towards a set aggregation-based data integrity scheme for smart grids
+T2  - Annales des Telecommunications/Annals of Telecommunications
+VL  - 72
+IS  - 9-10
+SP  - 551
+EP  - 561
+PY  - 2017
+DO  - 10.1007/s12243-017-0602-7
+AU  - Tahir, M.
+AU  - Khan, A.
+AU  - Hameed, A.
+AU  - Alam, M.
+AU  - Khan, M.K.
+AU  - Jabeen, F.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027507718&doi=10.1007%2fs12243-017-0602-7&partnerID=40&md5=c03cede6bab68fcccfc81e4a19bf0faf
+ER  - 
+
+TY  - JOUR
+TI  - Toward unified security and privacy protection for smart meter networks
+T2  - IEEE Systems Journal
+VL  - 8
+IS  - 2
+SP  - 641
+EP  - 654
+PY  - 2014
+DO  - 10.1109/JSYST.2013.2260940
+AU  - Kalogridis, G.
+AU  - Sooriyabandara, M.
+AU  - Fan, Z.
+AU  - Mustafa, M.A.
+N1  - Cited By :16
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6555824
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84902243783&doi=10.1109%2fJSYST.2013.2260940&partnerID=40&md5=e733dd55b2f9c9fd98ffeacc1f993e1f
+ER  - 
+
+TY  - CONF
+TI  - Time aggregation for privacy-protecting EMU based on model-distribution predictive control
+T2  - 2017 IEEE Manchester PowerTech, Powertech 2017
+PY  - 2017
+DO  - 10.1109/PTC.2017.7981184
+AU  - Chin, J.-X.
+AU  - De Rubira, T.T.
+AU  - Hug, G.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7981184
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034764941&doi=10.1109%2fPTC.2017.7981184&partnerID=40&md5=76be5f6381a180878153b6c88b0161ab
+ER  - 
+
+TY  - SER
+TI  - Threat modeling of AMI
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7722 LNCS
+SP  - 264
+EP  - 275
+PY  - 2013
+DO  - 10.1007/978-3-642-41485-5_23
+AU  - Tøndel, I.A.
+AU  - Jaatun, M.G.
+AU  - Line, M.B.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893144366&doi=10.1007%2f978-3-642-41485-5_23&partnerID=40&md5=90060a7b8d07bd0330156555aeb881ff
+ER  - 
+
+TY  - JOUR
+TI  - The legislative initiatives for smart metering as a precondition to zero energy: the case of Greece
+T2  - Advances in Building Energy Research
+VL  - 9
+IS  - 1
+SP  - 55
+EP  - 72
+PY  - 2015
+DO  - 10.1080/17512549.2014.923327
+AU  - Kokkaliaris, S.
+AU  - Maria, E.-A.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84926523009&doi=10.1080%2f17512549.2014.923327&partnerID=40&md5=6abbb4174105dc7342b21d51df6f1428
+ER  - 
+
+TY  - CONF
+TI  - Testbed and Simulation-Based Evaluation of Privacy-Preserving Algorithms for Smart Grid AMI Networks
+T2  - Proceedings - Conference on Local Computer Networks, LCN
+SP  - 181
+EP  - 186
+PY  - 2017
+DO  - 10.1109/LCN.2016.045
+AU  - Ozgur, U.
+AU  - Tonyali, S.
+AU  - Akkaya, K.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7856154
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017505141&doi=10.1109%2fLCN.2016.045&partnerID=40&md5=ae51f3d420bd22bc9984779b674cd7b0
+ER  - 
+
+TY  - CONF
+TI  - Temporal anonymity in the AMS scenario without a TTP
+T2  - ACM International Conference Proceeding Series
+PY  - 2018
+DO  - 10.1145/3241403.3241462
+AU  - Eskeland, S.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - a57
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055697071&doi=10.1145%2f3241403.3241462&partnerID=40&md5=fb47c18af338d389f48edae7eaa1d1c4
+ER  - 
+
+TY  - CONF
+TI  - SMART-ER: Peer-based privacy for smart metering
+T2  - Proceedings - IEEE INFOCOM
+SP  - 652
+EP  - 657
+PY  - 2014
+DO  - 10.1109/INFCOMW.2014.6849308
+AU  - Finster, S.
+AU  - Baumgart, I.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6849308
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904480157&doi=10.1109%2fINFCOMW.2014.6849308&partnerID=40&md5=d29ad06a900fbb2c650143ee9be33004
+ER  - 
+
+TY  - JOUR
+TI  - Smart meters big data: Game theoretic model for fair data sharing in deregulated smart grids
+T2  - IEEE Access
+VL  - 3
+SP  - 2743
+EP  - 2754
+PY  - 2015
+DO  - 10.1109/ACCESS.2015.2504503
+AU  - Yassine, A.
+AU  - Shirehjini, A.A.N.
+AU  - Shirmohammadi, S.
+N1  - Cited By :18
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7342880
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961382678&doi=10.1109%2fACCESS.2015.2504503&partnerID=40&md5=e590bf01407918cf111983af6103f2b7
+ER  - 
+
+TY  - CONF
+TI  - Smart metering, common criteria and european privacy needs
+T2  - ISSE 2012 Securing Electronic Business Processes: Highlights of the Information Security Solutions Europe 2012 Conference
+SP  - 116
+EP  - 127
+PY  - 2012
+DO  - 10.1007/978-3-658-00333-3_12
+AU  - Bartsch, M.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883038069&doi=10.1007%2f978-3-658-00333-3_12&partnerID=40&md5=2e33ea8f0019d3a4c558e889914982fe
+ER  - 
+
+TY  - JOUR
+TI  - Smart metering systems and data sharing: Why getting a smart meter should also mean getting strong information privacy controls to manage data sharing
+T2  - International Journal of Law and Information Technology
+VL  - 22
+IS  - 3
+SP  - 215
+EP  - 253
+PY  - 2014
+DO  - 10.1093/ijlit/eau001
+AU  - King, N.J.
+AU  - Jessen, P.W.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - eau001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906859089&doi=10.1093%2fijlit%2feau001&partnerID=40&md5=988db36b32f6ddc10b776f5dba34b5a7
+ER  - 
+
+TY  - CONF
+TI  - Smart metering privacy-preserving techniques in a nutshell
+T2  - Procedia Computer Science
+VL  - 32
+SP  - 1087
+EP  - 1094
+PY  - 2014
+DO  - 10.1016/j.procs.2014.05.537
+AU  - Souri, H.
+AU  - Dhraief, A.
+AU  - Tlili, S.
+AU  - Drira, K.
+AU  - Belghith, A.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84902655317&doi=10.1016%2fj.procs.2014.05.537&partnerID=40&md5=9f101b75bb2132dd85d4d29444b1216b
+ER  - 
+
+TY  - CONF
+TI  - Smart metering platform as a solution for data analysis
+T2  - Proceedings of 8th International Conference on Energy and Environment: Energy Saved Today is Asset for Future, CIEM 2017
+SP  - 495
+EP  - 499
+PY  - 2018
+DO  - 10.1109/CIEM.2017.8120798
+AU  - Andrei, N.L.
+AU  - Tanasiev, V.
+AU  - Sanduleac, M.
+AU  - Badea, A.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8120798
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041217440&doi=10.1109%2fCIEM.2017.8120798&partnerID=40&md5=0f84efc82c901b170b6571dd091f582f
+ER  - 
+
+TY  - CONF
+TI  - Smart metering de-pseudonymization
+T2  - ACM International Conference Proceeding Series
+SP  - 227
+EP  - 236
+PY  - 2011
+DO  - 10.1145/2076732.2076764
+AU  - Jawurek, M.
+AU  - Johns, M.
+AU  - Rieck, K.
+N1  - Cited By :41
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84855643907&doi=10.1145%2f2076732.2076764&partnerID=40&md5=28b26cb9a55ae20ae64eb2c6ac8a9fde
+ER  - 
+
+TY  - JOUR
+TI  - Smart metering and water end-use data: Conservation benefits and privacy risks
+T2  - Water (Switzerland)
+VL  - 2
+IS  - 3
+SP  - 461
+EP  - 467
+PY  - 2010
+DO  - 10.3390/w2030461
+AU  - Giurco, D.P.
+AU  - White, S.B.
+AU  - Stewart, R.A.
+N1  - Cited By :26
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866139640&doi=10.3390%2fw2030461&partnerID=40&md5=36820af444c1026b5460abcf58537c44
+ER  - 
+
+TY  - JOUR
+TI  - Smart Meter Privacy: Exploiting the Potential of Household Energy Storage Units
+T2  - IEEE Internet of Things Journal
+VL  - 5
+IS  - 1
+SP  - 69
+EP  - 78
+PY  - 2018
+DO  - 10.1109/JIOT.2017.2771370
+AU  - Sun, Y.
+AU  - Lampe, L.
+AU  - Wong, V.W.S.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 8100869
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034212200&doi=10.1109%2fJIOT.2017.2771370&partnerID=40&md5=233fff103cc54114c292fbf389046664
+ER  - 
+
+TY  - JOUR
+TI  - Smart meter data privacy: A survey
+T2  - IEEE Communications Surveys and Tutorials
+VL  - 19
+IS  - 4
+SP  - 2820
+EP  - 2835
+PY  - 2017
+DO  - 10.1109/COMST.2017.2720195
+AU  - Asghar, M.R.
+AU  - Dán, G.
+AU  - Miorandi, D.
+AU  - Chlamtac, I.
+N1  - Cited By :15
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7959167
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023741073&doi=10.1109%2fCOMST.2017.2720195&partnerID=40&md5=c7a3a68112747444df253ef07f8a2ca9
+ER  - 
+
+TY  - JOUR
+TI  - Smart Homes as a Means to Sustainable Energy Consumption: A Study of Consumer Perceptions
+T2  - Journal of Consumer Policy
+VL  - 35
+IS  - 1
+SP  - 23
+EP  - 41
+PY  - 2012
+DO  - 10.1007/s10603-011-9177-2
+AU  - Paetz, A.-G.
+AU  - Dütschke, E.
+AU  - Fichtner, W.
+N1  - Cited By :100
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84857446942&doi=10.1007%2fs10603-011-9177-2&partnerID=40&md5=5d8efa4a7c6b79c68056b25ee0af2fbe
+ER  - 
+
+TY  - CONF
+TI  - Smart grid roadmap and regulation approaches in Switzerland
+T2  - CIRED - Open Access Proceedings Journal
+VL  - 2017
+IS  - 1
+SP  - 2906
+EP  - 2909
+PY  - 2017
+DO  - 10.1049/oap-cired.2017.0141
+AU  - Galus, M.D.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046947732&doi=10.1049%2foap-cired.2017.0141&partnerID=40&md5=2c3d4d011cd1650571569a8ccabf9dcc
+ER  - 
+
+TY  - CONF
+TI  - Smart grid privacy: Issues and solutions
+T2  - 2012 21st International Conference on Computer Communications and Networks, ICCCN 2012 - Proceedings
+PY  - 2012
+DO  - 10.1109/ICCCN.2012.6289304
+AU  - Siddiqui, F.
+AU  - Zeadally, S.
+AU  - Alcaraz, C.
+AU  - Galvao, S.
+N1  - Cited By :17
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6289304
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867757231&doi=10.1109%2fICCCN.2012.6289304&partnerID=40&md5=d3cf8764ad4e829b57c3976457b5cb7e
+ER  - 
+
+TY  - CONF
+TI  - Smart grid cyber security and substation network security
+T2  - 2012 IEEE PES Innovative Smart Grid Technologies, ISGT 2012
+PY  - 2012
+DO  - 10.1109/ISGT.2012.6175788
+AU  - Farquharson, J.
+AU  - Wang, A.
+AU  - Howard, J.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6175788
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860852521&doi=10.1109%2fISGT.2012.6175788&partnerID=40&md5=49312c726897ad251cb52609c3108721
+ER  - 
+
+TY  - JOUR
+TI  - Smart grid communications: Overview of research challenges, solutions, and standardization activities
+T2  - IEEE Communications Surveys and Tutorials
+VL  - 15
+IS  - 1
+SP  - 21
+EP  - 38
+PY  - 2013
+DO  - 10.1109/SURV.2011.122211.00021
+AU  - Fan, Z.
+AU  - Kulkarni, P.
+AU  - Gormus, S.
+AU  - Efthymiou, C.
+AU  - Kalogridis, G.
+AU  - Sooriyabandara, M.
+AU  - Zhu, Z.
+AU  - Lambotharan, S.
+AU  - Chin, W.H.
+N1  - Cited By :287
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6129368
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84873707949&doi=10.1109%2fSURV.2011.122211.00021&partnerID=40&md5=3722bc8c2d901ac2e01472bfdcde7483
+ER  - 
+
+TY  - SER
+TI  - Selecting privacy solutions to prioritise control in smart metering systems
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 10242 LNCS
+SP  - 176
+EP  - 188
+PY  - 2017
+DO  - 10.1007/978-3-319-71368-7_15
+AU  - Rubio, J.E.
+AU  - Alcaraz, C.
+AU  - Lopez, J.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85036649492&doi=10.1007%2f978-3-319-71368-7_15&partnerID=40&md5=04303d2c4200ed7c7785c34b3d7612cd
+ER  - 
+
+TY  - CONF
+TI  - Security issues in smart metering systems
+T2  - International Conference on Smart Energy Grid Engineering, SEGE 2015
+PY  - 2015
+DO  - 10.1109/SEGE.2015.7324615
+AU  - Ur-Rehman, O.
+AU  - Zivic, N.
+AU  - Ruland, C.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7324615
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961956289&doi=10.1109%2fSEGE.2015.7324615&partnerID=40&md5=3f1391ab58c336ba40972049d03b047f
+ER  - 
+
+TY  - SER
+TI  - Security Breach Possibility with RSS-Based Localization of Smart Meters Incorporating Maximum Likelihood Estimator
+T2  - Advances in Intelligent Systems and Computing
+VL  - 1089
+SP  - 133
+EP  - 139
+PY  - 2015
+DO  - 10.1007/978-3-319-08422-0_20
+AU  - Jamei, M.
+AU  - Sarwat, A.I.
+AU  - Iyengar, S.S.
+AU  - Kaleem, F.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906536356&doi=10.1007%2f978-3-319-08422-0_20&partnerID=40&md5=723f22aca34a84c45a975ec4fa87cbf3
+ER  - 
+
+TY  - CONF
+TI  - Security and privacy preserving data aggregation in cloud computing
+T2  - Proceedings of the ACM Symposium on Applied Computing
+VL  - Part F128005
+SP  - 1732
+EP  - 1738
+PY  - 2017
+DO  - 10.1145/3019612.3019795
+AU  - Silva, L.V.
+AU  - Marinho, R.
+AU  - Vivas, J.L.
+AU  - Brito, A.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85020876239&doi=10.1145%2f3019612.3019795&partnerID=40&md5=ec3098c3ee2580e2731c971b3b43d203
+ER  - 
+
+TY  - CONF
+TI  - Securing smart metering applications in untrusted clouds with the secure cloud platform
+T2  - Proceedings of the Workshop on Privacy by Design in Distributed Systems, P2DS 2018, co-located with European Conference on Computer Systems, EuroSys 2018
+PY  - 2018
+DO  - 10.1145/3195258.3195263
+AU  - Riella, R.J.
+AU  - Iantorno, L.M.
+AU  - Junior, L.C.R.
+AU  - Seidel, D.
+AU  - Fonseca, K.V.O.
+AU  - Gomes, L.
+AU  - Rosa, M.O.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049395736&doi=10.1145%2f3195258.3195263&partnerID=40&md5=647c19c65cd4c5470f87da4a2b2260a9
+ER  - 
+
+TY  - CONF
+TI  - Secure multiparty computation based privacy preserving smart metering system
+T2  - 2012 North American Power Symposium, NAPS 2012
+PY  - 2012
+DO  - 10.1109/NAPS.2012.6336415
+AU  - Thoma, C.
+AU  - Cui, T.
+AU  - Franchetti, F.
+N1  - Cited By :13
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6336415
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870560660&doi=10.1109%2fNAPS.2012.6336415&partnerID=40&md5=ff4ec99140a2b68855c46d770fcb16aa
+ER  - 
+
+TY  - CONF
+TI  - Secure MAC protocol for periodic Smart Metering data communication with compressive sensing
+T2  - 2016 IEEE Globecom Workshops, GC Wkshps 2016 - Proceedings
+PY  - 2016
+DO  - 10.1109/GLOCOMW.2016.7849040
+AU  - Yang, Y.
+AU  - Roy, S.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7849040
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015971397&doi=10.1109%2fGLOCOMW.2016.7849040&partnerID=40&md5=898356730a0235b7960a4f1cb79c79bc
+ER  - 
+
+TY  - CONF
+TI  - Secure distributed data aggregation in the automatic metering infrastructure of smart grids
+T2  - IEEE International Conference on Communications
+SP  - 4466
+EP  - 4471
+PY  - 2013
+DO  - 10.1109/ICC.2013.6655270
+AU  - Rottondi, C.
+AU  - Verticale, G.
+AU  - Krauß, C.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6655270
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84891369147&doi=10.1109%2fICC.2013.6655270&partnerID=40&md5=0ad3e405199210b64ebb10e05a55f4f3
+ER  - 
+
+TY  - JOUR
+TI  - Secure Data Obfuscation Scheme to Enable Privacy-Preserving State Estimation in Smart Grid AMI Networks
+T2  - IEEE Internet of Things Journal
+VL  - 3
+IS  - 5
+SP  - 709
+EP  - 719
+PY  - 2016
+DO  - 10.1109/JIOT.2015.2510504
+AU  - Tonyali, S.
+AU  - Cakmak, O.
+AU  - Akkaya, K.
+AU  - Mahmoud, M.M.E.A.
+AU  - Guvenc, I.
+N1  - Cited By :17
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7360878
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84987779508&doi=10.1109%2fJIOT.2015.2510504&partnerID=40&md5=610ddf3af23eec4442bcea1e330a8f06
+ER  - 
+
+TY  - CONF
+TI  - Secure communication for advance metering infrastructure in smart grid
+T2  - 11th IEEE India Conference: Emerging Trends and Innovation in Technology, INDICON 2014
+PY  - 2015
+DO  - 10.1109/INDICON.2014.7030600
+AU  - Kumar, V.
+AU  - Hussain, M.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7030600
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84924209783&doi=10.1109%2fINDICON.2014.7030600&partnerID=40&md5=96e44d5f92f1427aafa2d41e8620efea
+ER  - 
+
+TY  - JOUR
+TI  - Secure and scalable aggregation in the smart grid resilient against malicious entities
+T2  - Ad Hoc Networks
+VL  - 50
+SP  - 58
+EP  - 67
+PY  - 2016
+DO  - 10.1016/j.adhoc.2016.06.014
+AU  - Dimitriou, T.
+AU  - Awad, M.K.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84991067482&doi=10.1016%2fj.adhoc.2016.06.014&partnerID=40&md5=5eea96f891619996bddbd682d4bf4f62
+ER  - 
+
+TY  - CONF
+TI  - Secure and privacy-preserving AMI-utility communications via LTE-A networks
+T2  - 2015 IEEE 11th International Conference on Wireless and Mobile Computing, Networking and Communications, WiMob 2015
+SP  - 748
+EP  - 755
+PY  - 2015
+DO  - 10.1109/WiMOB.2015.7348037
+AU  - Haddad, Z.
+AU  - Mahmoud, M.
+AU  - Taha, S.
+AU  - Saroit, I.A.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7348037
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964289656&doi=10.1109%2fWiMOB.2015.7348037&partnerID=40&md5=1aea5d2de170b28c8803bb18a6ed4445
+ER  - 
+
+TY  - JOUR
+TI  - Secure and efficient protection of consumer privacy in Advanced Metering Infrastructure supporting fine-grained data analysis
+T2  - Journal of Computer and System Sciences
+VL  - 83
+IS  - 1
+SP  - 84
+EP  - 100
+PY  - 2017
+DO  - 10.1016/j.jcss.2016.06.005
+AU  - Ford, V.
+AU  - Siraj, A.
+AU  - Ashiqur Rahman, M.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992520853&doi=10.1016%2fj.jcss.2016.06.005&partnerID=40&md5=4ea2363ce75a1bd7e21a24323fac3018
+ER  - 
+
+TY  - CONF
+TI  - Scalable multi-group key management for advanced metering infrastructure
+T2  - Proceedings - 15th IEEE International Conference on Computer and Information Technology, CIT 2015, 14th IEEE International Conference on Ubiquitous Computing and Communications, IUCC 2015, 13th IEEE International Conference on Dependable, Autonomic and Secure Computing, DASC 2015 and 13th IEEE International Conference on Pervasive Intelligence and Computing, PICom 2015
+SP  - 183
+EP  - 190
+PY  - 2015
+DO  - 10.1109/CIT/IUCC/DASC/PICOM.2015.27
+AU  - Benmalek, M.
+AU  - Challal, Y.
+AU  - Bouabdallah, A.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7363069
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964265729&doi=10.1109%2fCIT%2fIUCC%2fDASC%2fPICOM.2015.27&partnerID=40&md5=93ac1d386f8f162689f52f44966a0c51
+ER  - 
+
+TY  - JOUR
+TI  - Revealing household characteristics from smart meter data
+T2  - Energy
+VL  - 78
+SP  - 397
+EP  - 410
+PY  - 2014
+DO  - 10.1016/j.energy.2014.10.025
+AU  - Beckel, C.
+AU  - Sadamori, L.
+AU  - Staake, T.
+AU  - Santini, S.
+N1  - Cited By :74
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84920726097&doi=10.1016%2fj.energy.2014.10.025&partnerID=40&md5=801e1e14ada771b452dec5bc6bc33e73
+ER  - 
+
+TY  - CONF
+TI  - Resilient end-to-end message protection for large-scale cyber-physical system communications
+T2  - 2012 IEEE 3rd International Conference on Smart Grid Communications, SmartGridComm 2012
+SP  - 193
+EP  - 198
+PY  - 2012
+DO  - 10.1109/SmartGridComm.2012.6485982
+AU  - Kim, Y.-J.
+AU  - Kolesnikov, V.
+AU  - Thottan, M.
+N1  - Cited By :14
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6485982
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84876030222&doi=10.1109%2fSmartGridComm.2012.6485982&partnerID=40&md5=535d998273ac79933b7a8e75d8f8ae4b
+ER  - 
+
+TY  - CONF
+TI  - RERUM: Building a reliable IoT upon privacy- and security- enabled smart objects
+T2  - 2014 IEEE Wireless Communications and Networking Conference Workshops, WCNCW 2014
+SP  - 122
+EP  - 127
+PY  - 2014
+DO  - 10.1109/WCNCW.2014.6934872
+AU  - Pöhls, H.C.
+AU  - Angelakis, V.
+AU  - Suppan, S.
+AU  - Fischer, K.
+AU  - Oikonomou, G.
+AU  - Tragos, E.Z.
+AU  - Rodriguez, R.D.
+AU  - Mouroutis, T.
+N1  - Cited By :33
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6934872
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84912047576&doi=10.1109%2fWCNCW.2014.6934872&partnerID=40&md5=5d1ff840626da112ae44a799c7d2b2a1
+ER  - 
+
+TY  - SER
+TI  - Redactable signatures to control the maximum noise for differential privacy in the Smart Grid
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 8448
+SP  - 79
+EP  - 93
+PY  - 2014
+DO  - 10.1007/978-3-319-10329-7_6
+AU  - Pöhls, H.C.
+AU  - Karwe, M.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84927644026&doi=10.1007%2f978-3-319-10329-7_6&partnerID=40&md5=02043b0d74d6f81b2c1a0f816934cdd2
+ER  - 
+
+TY  - CONF
+TI  - Reconsidering the smart metering data collection frequency for distribution state estimation
+T2  - 2014 IEEE International Conference on Smart Grid Communications, SmartGridComm 2014
+SP  - 517
+EP  - 522
+PY  - 2015
+DO  - 10.1109/SmartGridComm.2014.7007699
+AU  - Chen, Q.
+AU  - Kaleshi, D.
+AU  - Armour, S.
+AU  - Fan, Z.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7007699
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922447754&doi=10.1109%2fSmartGridComm.2014.7007699&partnerID=40&md5=8589673d3bec396a4e02c759bc720585
+ER  - 
+
+TY  - JOUR
+TI  - Reconciling privacy and efficient utility management in smart cities
+T2  - Transactions on emerging telecommunications technologies
+VL  - 25
+IS  - 1
+SP  - 94
+EP  - 108
+PY  - 2014
+DO  - 10.1002/ett.2708
+AU  - Rebollo-Monedero, D.
+AU  - Bartoli, A.
+AU  - Hernández-Serrano, J.
+AU  - Forné, J.
+AU  - Soriano, M.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84900633329&doi=10.1002%2fett.2708&partnerID=40&md5=35884f10f08b61fdf73101d24e4d9d0e
+ER  - 
+
+TY  - JOUR
+TI  - Recommender system for privacy-preserving solutions in smart metering
+T2  - Pervasive and Mobile Computing
+VL  - 41
+SP  - 205
+EP  - 218
+PY  - 2017
+DO  - 10.1016/j.pmcj.2017.03.008
+AU  - Rubio, J.E.
+AU  - Alcaraz, C.
+AU  - Lopez, J.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017332333&doi=10.1016%2fj.pmcj.2017.03.008&partnerID=40&md5=caa793bdd5d769f049f884e5a1e69ba3
+ER  - 
+
+TY  - JOUR
+TI  - Publicly verifiable spatial and temporal aggregation scheme against malicious aggregator in smart grid
+T2  - Applied Sciences (Switzerland)
+VL  - 9
+IS  - 3
+PY  - 2019
+DO  - 10.3390/app9030490
+AU  - Zhang, L.
+AU  - Zhang, J.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 490
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061026629&doi=10.3390%2fapp9030490&partnerID=40&md5=417194385a43fab094b5e290dd1eeae2
+ER  - 
+
+TY  - CONF
+TI  - Publicly verifiable private aggregation of time-series data
+T2  - Proceedings - 10th International Conference on Availability, Reliability and Security, ARES 2015
+SP  - 50
+EP  - 59
+PY  - 2015
+DO  - 10.1109/ARES.2015.82
+AU  - Bakondi, B.G.
+AU  - Peter, A.
+AU  - Everts, M.
+AU  - Hartel, P.
+AU  - Jonker, W.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7299898
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961653810&doi=10.1109%2fARES.2015.82&partnerID=40&md5=d8acf10f40cf95d8d6673671bbf74afd
+ER  - 
+
+TY  - CONF
+TI  - Pseudonymous smart metering without a trusted third party
+T2  - Proceedings - 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2013
+SP  - 1723
+EP  - 1728
+PY  - 2013
+DO  - 10.1109/TrustCom.2013.234
+AU  - Finster, S.
+AU  - Baumgart, I.
+N1  - Cited By :11
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6681042
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893512049&doi=10.1109%2fTrustCom.2013.234&partnerID=40&md5=2d18f60d74828a0875cb90c5706414ff
+ER  - 
+
+TY  - CONF
+TI  - Providing smart metering data services through an EU market place
+T2  - CIRED - Open Access Proceedings Journal
+VL  - 2017
+IS  - 1
+SP  - 2848
+EP  - 2851
+PY  - 2017
+DO  - 10.1049/oap-cired.2017.0225
+AU  - Boukir, K.
+AU  - Waestlund, D.
+AU  - Traverson, B.
+AU  - Schwarzlaender, F.
+AU  - Defrancisci, S.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046978162&doi=10.1049%2foap-cired.2017.0225&partnerID=40&md5=14889989ec1834bfeb08f1fe7b601915
+ER  - 
+
+TY  - CONF
+TI  - Protection of consumer data in the smart grid compliant with the German smart metering guideline
+T2  - Proceedings of the ACM Conference on Computer and Communications Security
+SP  - 41
+EP  - 52
+PY  - 2013
+DO  - 10.1145/2516930.2516933
+AU  - Biselli, A.
+AU  - Franz, E.
+AU  - Coutinho, M.P.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84889014147&doi=10.1145%2f2516930.2516933&partnerID=40&md5=d4803b195f7ddd44967b72351d43730c
+ER  - 
+
+TY  - CONF
+TI  - Protecting user privacy based on secret sharing with fault tolerance for big data in smart grid
+T2  - IEEE International Conference on Communications
+PY  - 2017
+DO  - 10.1109/ICC.2017.7997371
+AU  - Guan, Z.
+AU  - Si, G.
+AU  - Du, X.
+AU  - Liu, P.
+AU  - Zhang, Z.
+AU  - Zhou, Z.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7997371
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028320562&doi=10.1109%2fICC.2017.7997371&partnerID=40&md5=ccaa412fdce0f6c93b2785e57a7b0723
+ER  - 
+
+TY  - CONF
+TI  - Privacy-relevant smart metering use cases
+T2  - Proceedings of the IEEE International Conference on Industrial Technology
+VL  - 2015-June
+IS  - June
+SP  - 1387
+EP  - 1392
+PY  - 2015
+DO  - 10.1109/ICIT.2015.7125291
+AU  - Eibl, G.
+AU  - Engel, D.
+AU  - Neureiter, C.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7125291
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937713772&doi=10.1109%2fICIT.2015.7125291&partnerID=40&md5=2d93705f7dd7b8faa818a11adc20be07
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-Protecting Energy Management Unit Through Model-Distribution Predictive Control
+T2  - IEEE Transactions on Smart Grid
+VL  - 8
+IS  - 6
+SP  - 3084
+EP  - 3093
+PY  - 2017
+DO  - 10.1109/TSG.2017.2703158
+AU  - Chin, J.-X.
+AU  - Tinoco De Rubira, T.
+AU  - Hug, G.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7924340
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037036268&doi=10.1109%2fTSG.2017.2703158&partnerID=40&md5=1e310615431bb99618ac2ffa98c1e762
+ER  - 
+
+TY  - CONF
+TI  - Privacy-preserving smart metering
+T2  - ISSE 2012 Securing Electronic Business Processes: Highlights of the Information Security Solutions Europe 2012 Conference
+SP  - 105
+EP  - 115
+PY  - 2012
+DO  - 10.1007/978-3-658-00333-3_11
+AU  - Rial, A.
+AU  - Danezis, G.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883040469&doi=10.1007%2f978-3-658-00333-3_11&partnerID=40&md5=5372ae3ad36e40e0fe4b89172d9bcda0
+ER  - 
+
+TY  - CONF
+TI  - Privacy-preserving smart metering with regional statistics and personal enquiry services
+T2  - ASIA CCS 2013 - Proceedings of the 8th ACM SIGSAC Symposium on Information, Computer and Communications Security
+SP  - 369
+EP  - 379
+PY  - 2013
+DO  - 10.1145/2484313.2484362
+AU  - Chu, C.-K.
+AU  - Liu, J.K.
+AU  - Wong, J.W.
+AU  - Zhao, Y.
+AU  - Zhou, J.
+N1  - Cited By :21
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877932990&doi=10.1145%2f2484313.2484362&partnerID=40&md5=1bc7a33698f9d9e7e67df8db621b8f80
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-preserving smart metering with multiple data Consumers
+T2  - Computer Networks
+VL  - 57
+IS  - 7
+SP  - 1699
+EP  - 1713
+PY  - 2013
+DO  - 10.1016/j.comnet.2013.02.018
+AU  - Rottondi, C.
+AU  - Verticale, G.
+AU  - Capone, A.
+N1  - Cited By :48
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877580836&doi=10.1016%2fj.comnet.2013.02.018&partnerID=40&md5=a9361ec3c9dda959160ea7c09d640a59
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-preserving smart metering with authentication in a smart grid
+T2  - Applied Sciences (Switzerland)
+VL  - 5
+IS  - 4
+SP  - 1503
+EP  - 1527
+PY  - 2015
+DO  - 10.3390/app5041503
+AU  - Hur, J.B.
+AU  - Koo, D.Y.
+AU  - Shin, Y.J.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84973659161&doi=10.3390%2fapp5041503&partnerID=40&md5=febb5289efa0ba5d8ea0d195d75b9654
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-preserving smart metering revisited
+T2  - International Journal of Information Security
+VL  - 17
+IS  - 1
+PY  - 2018
+DO  - 10.1007/s10207-016-0355-8
+AU  - Rial, A.
+AU  - Danezis, G.
+AU  - Kohlweiss, M.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84997830812&doi=10.1007%2fs10207-016-0355-8&partnerID=40&md5=7867f171be8dceb53bed39350ada3c00
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-preserving protocols for secure and reliable data aggregation in IoT-enabled Smart Metering systems
+T2  - Future Generation Computer Systems
+VL  - 78
+SP  - 547
+EP  - 557
+PY  - 2018
+DO  - 10.1016/j.future.2017.04.031
+AU  - Tonyali, S.
+AU  - Akkaya, K.
+AU  - Saputro, N.
+AU  - Uluagac, A.S.
+AU  - Nojoumian, M.
+N1  - Cited By :13
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018181196&doi=10.1016%2fj.future.2017.04.031&partnerID=40&md5=407563eee2dbcbb06ef80e2f8db28188
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-preserving meter report protocol of isolated smart grid devices
+T2  - Wireless Communications and Mobile Computing
+VL  - 2017
+PY  - 2017
+DO  - 10.1155/2017/2539673
+AU  - Wang, Z.
+AU  - Xie, H.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 2539673
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021690343&doi=10.1155%2f2017%2f2539673&partnerID=40&md5=d2d89c3a7b591618efa73e95968ac705
+ER  - 
+
+TY  - SER
+TI  - Privacy-preserving energy-reading for smart meter
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 9102
+SP  - 165
+EP  - 177
+PY  - 2015
+DO  - 10.1007/978-3-319-19312-0_14
+AU  - Costantino, G.
+AU  - Martinelli, F.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84947739080&doi=10.1007%2f978-3-319-19312-0_14&partnerID=40&md5=6d3876ea28630c7995d0abebaae91d6a
+ER  - 
+
+TY  - CONF
+TI  - Privacy-preserving data sharing in Smart Grid systems
+T2  - 2014 IEEE International Conference on Smart Grid Communications, SmartGridComm 2014
+SP  - 878
+EP  - 883
+PY  - 2015
+DO  - 10.1109/SmartGridComm.2014.7007759
+AU  - Yang, L.
+AU  - Xue, H.
+AU  - Li, F.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7007759
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922425030&doi=10.1109%2fSmartGridComm.2014.7007759&partnerID=40&md5=b0cea1e549d9bcae31d5519df3140d90
+ER  - 
+
+TY  - SER
+TI  - Privacy-preserving aggregation of time-series data with public verifiability from simple assumptions
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 10343 LNCS
+SP  - 193
+EP  - 213
+PY  - 2017
+DO  - 10.1007/978-3-319-59870-3_11
+AU  - Emura, K.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85020619950&doi=10.1007%2f978-3-319-59870-3_11&partnerID=40&md5=7e41332764f03536b857d6a1a89efe94
+ER  - 
+
+TY  - CONF
+TI  - Privacy-preserving aggregation of smart metering via transformation and encryption
+T2  - Proceedings - 16th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 11th IEEE International Conference on Big Data Science and Engineering and 14th IEEE International Conference on Embedded Software and Systems, Trustcom/BigDataSE/ICESS 2017
+SP  - 472
+EP  - 479
+PY  - 2017
+DO  - 10.1109/Trustcom/BigDataSE/ICESS.2017.273
+AU  - Lyu, L.
+AU  - Law, Y.W.
+AU  - Jin, J.
+AU  - Palaniswami, M.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8029476
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85032334042&doi=10.1109%2fTrustcom%2fBigDataSE%2fICESS.2017.273&partnerID=40&md5=978a17713fcffb915c23a830b77a6539
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-preserving aggregation and authentication of multi-source smart meters in a smart grid system
+T2  - Applied Sciences (Switzerland)
+VL  - 7
+IS  - 10
+PY  - 2017
+DO  - 10.3390/app7101007
+AU  - Koo, D.
+AU  - Shin, Y.
+AU  - Hur, J.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 1007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030535611&doi=10.3390%2fapp7101007&partnerID=40&md5=a324f4e87ddf9872f4277d95d9a48671
+ER  - 
+
+TY  - CONF
+TI  - Privacy-friendly distributed algorithm for energy management in smart grids
+T2  - Proceedings - International Conference on Networked Systems, NetSys 2015
+PY  - 2015
+DO  - 10.1109/NetSys.2015.7089086
+AU  - Brettschneider, D.
+AU  - Scheerhorn, A.
+AU  - Holker, D.
+AU  - Roer, P.
+AU  - Tonjes, R.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7089086
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84929377210&doi=10.1109%2fNetSys.2015.7089086&partnerID=40&md5=e44d2c31f224f4875a3dbaec4f0edb5d
+ER  - 
+
+TY  - SER
+TI  - Privacy-enhanced data collection scheme for smart-metering
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 9589
+SP  - 413
+EP  - 429
+PY  - 2016
+DO  - 10.1007/978-3-319-38898-4_24
+AU  - Hajny, J.
+AU  - Dzurenda, P.
+AU  - Malina, L.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969257612&doi=10.1007%2f978-3-319-38898-4_24&partnerID=40&md5=cd5eef37b6702f8cf7860b4ba44c028a
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-enhanced architecture for smart metering
+T2  - International Journal of Information Security
+VL  - 12
+IS  - 2
+SP  - 67
+EP  - 82
+PY  - 2013
+DO  - 10.1007/s10207-012-0181-6
+AU  - Gómez Mármol, F.
+AU  - Sorge, C.
+AU  - Petrlic, R.
+AU  - Ugus, O.
+AU  - Westhoff, D.
+AU  - Martínez Pérez, G.
+N1  - Cited By :15
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84874813956&doi=10.1007%2fs10207-012-0181-6&partnerID=40&md5=02732ca5e70e4492001dfecc9614fee2
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-aware smart metering: A survey
+T2  - IEEE Communications Surveys and Tutorials
+VL  - 17
+IS  - 2
+SP  - 1088
+EP  - 1101
+PY  - 2015
+DO  - 10.1109/COMST.2015.2425958
+AU  - Finster, S.
+AU  - Baumgart, I.
+N1  - Cited By :16
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7093120
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930203592&doi=10.1109%2fCOMST.2015.2425958&partnerID=40&md5=642cc040d86646bbfb2e0bd5b1465d5a
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-aware profiling and statistical data extraction for smart sustainable energy systems
+T2  - IEEE Transactions on Smart Grid
+VL  - 4
+IS  - 1
+SP  - 332
+EP  - 340
+PY  - 2013
+DO  - 10.1109/TSG.2012.2210289
+AU  - Lin, H.
+AU  - Fang, Y.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6294518
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875055161&doi=10.1109%2fTSG.2012.2210289&partnerID=40&md5=604de851b10b404977f6810162bfa34c
+ER  - 
+
+TY  - JOUR
+TI  - Privacy-Assured Aggregation Protocol for Smart Metering: A Proactive Fault-Tolerant Approach
+T2  - IEEE/ACM Transactions on Networking
+VL  - 24
+IS  - 3
+SP  - 1661
+EP  - 1674
+PY  - 2016
+DO  - 10.1109/TNET.2015.2425422
+AU  - Won, J.
+AU  - Ma, C.Y.T.
+AU  - Yau, D.K.Y.
+AU  - Rao, N.S.V.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7106571
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84929190573&doi=10.1109%2fTNET.2015.2425422&partnerID=40&md5=5d3caf6dcd29184c63a3a0d2aaf194d4
+ER  - 
+
+TY  - CONF
+TI  - Privacy violations in constrained micro-grids: Adversarial cases
+T2  - Proceedings - IEEE 30th International Conference on Advanced Information Networking and Applications Workshops, WAINA 2016
+SP  - 601
+EP  - 606
+PY  - 2016
+DO  - 10.1109/WAINA.2016.98
+AU  - Ambassa, P.L.
+AU  - Kayem, A.V.D.M.
+AU  - Wolthusen, S.D.
+AU  - Meinel, C.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7471266
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983500252&doi=10.1109%2fWAINA.2016.98&partnerID=40&md5=2a0b617b58810037b9b92414609545e7
+ER  - 
+
+TY  - CONF
+TI  - Privacy preserving statistics in the smart grid
+T2  - Proceedings - International Conference on Distributed Computing Systems
+VL  - 30-June-2014
+SP  - 182
+EP  - 187
+PY  - 2014
+DO  - 10.1109/ICDCSW.2014.16
+AU  - Leontiadis, I.
+AU  - Molva, R.
+AU  - Önen, M.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6888859
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988346577&doi=10.1109%2fICDCSW.2014.16&partnerID=40&md5=521f96a3dcbd2984b8e3cdc63aec8108
+ER  - 
+
+TY  - JOUR
+TI  - Privacy preserving smart meter streaming against information leakage of appliance status
+T2  - IEEE Transactions on Information Forensics and Security
+VL  - 12
+IS  - 9
+SP  - 2227
+EP  - 2241
+PY  - 2017
+DO  - 10.1109/TIFS.2017.2704904
+AU  - Hong, Y.
+AU  - Liu, W.M.
+AU  - Wang, L.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7929354
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021630757&doi=10.1109%2fTIFS.2017.2704904&partnerID=40&md5=21b8d83fa50128018cfd2fdde1455d3a
+ER  - 
+
+TY  - SER
+TI  - Privacy preserving metering protocol in smart grids
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 458
+SP  - 467
+EP  - 477
+PY  - 2015
+DO  - 10.1007/978-3-319-23868-5_34
+AU  - Mert, D.
+AU  - Şimşek, M.U.
+AU  - Özdemir, S.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84946014961&doi=10.1007%2f978-3-319-23868-5_34&partnerID=40&md5=3f270555570ad330d096898f76fc3e7f
+ER  - 
+
+TY  - CONF
+TI  - Privacy Preserving Fine-Grained Data Distribution Aggregation for Smart Grid AMI Networks
+T2  - Proceedings - IEEE Military Communications Conference MILCOM
+VL  - 2019-October
+SP  - 249
+EP  - 254
+PY  - 2019
+DO  - 10.1109/MILCOM.2018.8599856
+AU  - Oriero, E.
+AU  - Rahman, M.A.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8599856
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061456605&doi=10.1109%2fMILCOM.2018.8599856&partnerID=40&md5=2bdbbfecf8f89b0adb4b157ebc1cf8ea
+ER  - 
+
+TY  - CONF
+TI  - Privacy Preservation Needed for Smart Meter System: A Methodology to Recognize Electric Vehicle (EV) Models
+T2  - International Conference on Innovative Smart Grid Technologies, ISGT Asia 2018
+SP  - 1016
+EP  - 1020
+PY  - 2018
+DO  - 10.1109/ISGT-Asia.2018.8467822
+AU  - Dang, Q.
+AU  - Huo, Y.
+AU  - Sun, C.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053850701&doi=10.1109%2fISGT-Asia.2018.8467822&partnerID=40&md5=fa78492a8ed9c355be7cefab48996f67
+ER  - 
+
+TY  - CONF
+TI  - Privacy issues of smart e-mobility
+T2  - IECON Proceedings (Industrial Electronics Conference)
+SP  - 6681
+EP  - 6687
+PY  - 2013
+DO  - 10.1109/IECON.2013.6700238
+AU  - Langer, L.
+AU  - Skopik, F.
+AU  - Kienesberger, G.
+AU  - Li, Q.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6700238
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893535590&doi=10.1109%2fIECON.2013.6700238&partnerID=40&md5=b0822ccb6a613b34c029c537fa454079
+ER  - 
+
+TY  - SER
+TI  - Privacy in smart metering ecosystems
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7823 LNCS
+SP  - 120
+EP  - 131
+PY  - 2013
+DO  - 10.1007/978-3-642-38030-3_9
+AU  - Ebinger, P.
+AU  - Ramos, J.L.H.
+AU  - Kikiras, P.
+AU  - Lischka, M.
+AU  - Wiesmaier, A.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893151613&doi=10.1007%2f978-3-642-38030-3_9&partnerID=40&md5=f1e3eec793212432fb8b81000044adbe
+ER  - 
+
+TY  - SER
+TI  - Privacy enhanced fraud resistant road pricing (Extended abstract)
+T2  - IFIP Advances in Information and Communication Technology
+VL  - 328
+SP  - 202
+EP  - 213
+PY  - 2010
+DO  - 10.1007/978-3-642-15479-9_20
+AU  - Hoepman, J.-H.
+AU  - Huitema, G.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84861423999&doi=10.1007%2f978-3-642-15479-9_20&partnerID=40&md5=6b56fb7173b40840cc4cee34286ac1f6
+ER  - 
+
+TY  - JOUR
+TI  - Privacy analytics
+T2  - Computer Communication Review
+VL  - 42
+IS  - 2
+SP  - 94
+EP  - 98
+PY  - 2012
+DO  - 10.1145/2185376.2185390
+AU  - Haddadi, H.
+AU  - Mortier, R.
+AU  - Hand, S.
+AU  - Brown, I.
+AU  - Yoneki, E.
+AU  - Crowcroft, J.
+AU  - McAuley, D.
+N1  - Cited By :15
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84872815366&doi=10.1145%2f2185376.2185390&partnerID=40&md5=2672201cadd99704eee31919460602a1
+ER  - 
+
+TY  - CONF
+TI  - Preserving privacy with anonymity for customer collaboration in smart grid
+T2  - APCC 2012 - 18th Asia-Pacific Conference on Communications: "Green and Smart Communications for IT Innovation"
+SP  - 724
+EP  - 729
+PY  - 2012
+DO  - 10.1109/APCC.2012.6388290
+AU  - Kang, T.
+AU  - Kim, H.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6388290
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84872584460&doi=10.1109%2fAPCC.2012.6388290&partnerID=40&md5=b6598828f35bac156133094658b637cd
+ER  - 
+
+TY  - JOUR
+TI  - Preserving privacy and efficiency in data communication and aggregation for AMI network
+T2  - Journal of Network and Computer Applications
+VL  - 59
+SP  - 333
+EP  - 344
+PY  - 2016
+DO  - 10.1016/j.jnca.2015.07.005
+AU  - Bae, M.
+AU  - Kim, K.
+AU  - Kim, H.
+N1  - Cited By :14
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84949627737&doi=10.1016%2fj.jnca.2015.07.005&partnerID=40&md5=41a71ea840b0e5a90281ad138ab0417d
+ER  - 
+
+TY  - CONF
+TI  - Preserving consumer privacy on IEEE 802.11s-based smart grid AMI networks using data obfuscation
+T2  - Proceedings - IEEE INFOCOM
+SP  - 658
+EP  - 663
+PY  - 2014
+DO  - 10.1109/INFCOMW.2014.6849309
+AU  - Beussink, A.
+AU  - Akkaya, K.
+AU  - Senturk, I.F.
+AU  - Mahmoud, M.M.E.A.
+N1  - Cited By :21
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6849309
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904498050&doi=10.1109%2fINFCOMW.2014.6849309&partnerID=40&md5=1a7563c7ed07f49cec13b8866d8322ac
+ER  - 
+
+TY  - JOUR
+TI  - PPFA: Privacy preserving fog-enabled aggregation in smart grid
+T2  - IEEE Transactions on Industrial Informatics
+VL  - 14
+IS  - 8
+SP  - 3733
+EP  - 3744
+PY  - 2018
+DO  - 10.1109/TII.2018.2803782
+AU  - Lyu, L.
+AU  - Nandakumar, K.
+AU  - Rubinstein, B.
+AU  - Jin, J.
+AU  - Bedo, J.
+AU  - Palaniswami, M.
+N1  - Cited By :10
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 8286939
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041516118&doi=10.1109%2fTII.2018.2803782&partnerID=40&md5=a5d7e7be8d8cebca6dbd1349a3483eba
+ER  - 
+
+TY  - SER
+TI  - POSTER: Reliable and efficient protection of consumer privacy in advanced metering infrastructure
+T2  - Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST
+VL  - 164
+SP  - 563
+EP  - 566
+PY  - 2015
+DO  - 10.1007/978-3-319-28865-9_31
+AU  - Ford, V.
+AU  - Siraj, A.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958050066&doi=10.1007%2f978-3-319-28865-9_31&partnerID=40&md5=af2238f7f731cb9f63cde39d294d2307
+ER  - 
+
+TY  - SER
+TI  - Plug-in privacy for smart metering billing
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 6794 LNCS
+SP  - 192
+EP  - 210
+PY  - 2011
+DO  - 10.1007/978-3-642-22263-4_11
+AU  - Jawurek, M.
+AU  - Johns, M.
+AU  - Kerschbaum, F.
+N1  - Cited By :53
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79961183580&doi=10.1007%2f978-3-642-22263-4_11&partnerID=40&md5=75d1171588a07a00b64d8b1cb5e8e467
+ER  - 
+
+TY  - JOUR
+TI  - PaRQ: A privacy-preserving range query scheme over encrypted metering data for smart grid
+T2  - IEEE Transactions on Emerging Topics in Computing
+VL  - 1
+IS  - 1
+SP  - 178
+EP  - 191
+PY  - 2013
+DO  - 10.1109/TETC.2013.2273889
+AU  - Wen, M.
+AU  - Lu, R.
+AU  - Zhang, K.
+AU  - Lei, J.
+AU  - Liang, X.
+AU  - Shen, X.
+N1  - Cited By :40
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6566055
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961718586&doi=10.1109%2fTETC.2013.2273889&partnerID=40&md5=9fa5615a07a9e1b7928d59510a69712e
+ER  - 
+
+TY  - CONF
+TI  - On the analysis of collaborative anonymity set formation (CASF) method for privacy in the smart grid
+T2  - 2017 IEEE International Symposium on Technologies for Homeland Security, HST 2017
+PY  - 2017
+DO  - 10.1109/THS.2017.7943505
+AU  - Afrin, S.
+AU  - Mishra, S.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7943505
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023203498&doi=10.1109%2fTHS.2017.7943505&partnerID=40&md5=803954e9cca903eb196be3b6b167e4b1
+ER  - 
+
+TY  - JOUR
+TI  - On preserving user privacy in Smart Grid advanced metering infrastructure applications
+T2  - Security and Communication Networks
+VL  - 7
+IS  - 1
+SP  - 206
+EP  - 220
+PY  - 2014
+DO  - 10.1002/sec.706
+AU  - Saputro, N.
+AU  - Akkaya, K.
+N1  - Cited By :21
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84894094066&doi=10.1002%2fsec.706&partnerID=40&md5=62c3fe502345aa34b45fd9d4a6df18b3
+ER  - 
+
+TY  - JOUR
+TI  - Occupancy detection of residential buildings using smart meter data: A large-scale study
+T2  - Energy and Buildings
+VL  - 183
+SP  - 195
+EP  - 208
+PY  - 2019
+DO  - 10.1016/j.enbuild.2018.11.025
+AU  - Razavi, R.
+AU  - Gharipour, A.
+AU  - Fleury, M.
+AU  - Akpan, I.J.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056874979&doi=10.1016%2fj.enbuild.2018.11.025&partnerID=40&md5=1f9421b58561abc9c14694917eb638de
+ER  - 
+
+TY  - JOUR
+TI  - Next generation real-time smart meters for ICT based assessment of grid data inconsistencies
+T2  - Energies
+VL  - 10
+IS  - 7
+PY  - 2017
+DO  - 10.3390/en10070857
+AU  - Sanduleac, M.
+AU  - Lipari, G.
+AU  - Monti, A.
+AU  - Voulkidis, A.
+AU  - Zanetto, G.
+AU  - Corsi, A.
+AU  - Toma, L.
+AU  - Fiorentino, G.
+AU  - Federenciuc, D.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 857
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85025436670&doi=10.3390%2fen10070857&partnerID=40&md5=64a7aab6f3727b347aa792578784aa3a
+ER  - 
+
+TY  - CONF
+TI  - MUSP: Multi-service, User Self-controllable and Privacy-preserving system for smart metering
+T2  - IEEE International Conference on Communications
+VL  - 2015-September
+SP  - 788
+EP  - 794
+PY  - 2015
+DO  - 10.1109/ICC.2015.7248418
+AU  - Mustafa, M.A.
+AU  - Zhang, N.
+AU  - Kalogridis, G.
+AU  - Fan, Z.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7248418
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84953724728&doi=10.1109%2fICC.2015.7248418&partnerID=40&md5=ebc32af0d3ec3784fbd40fa42bec2396
+ER  - 
+
+TY  - JOUR
+TI  - Multi-resolution privacy-enhancing technologies for smart metering
+T2  - Eurasip Journal on Information Security
+VL  - 2017
+IS  - 1
+PY  - 2017
+DO  - 10.1186/s13635-017-0058-3
+AU  - Knirsch, F.
+AU  - Eibl, G.
+AU  - Engel, D.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015877961&doi=10.1186%2fs13635-017-0058-3&partnerID=40&md5=5375cc2af59d04f808e2d0e10ad982a2
+ER  - 
+
+TY  - CONF
+TI  - Multi-party metering: An architecture for privacy-preserving profiling schemes
+T2  - 2013 Sustainable Internet and ICT for Sustainability, SustainIT 2013
+PY  - 2013
+DO  - 10.1109/SustainIT.2013.6685212
+AU  - Barcellona, C.
+AU  - Cassara, P.
+AU  - Di Bella, G.
+AU  - Golic, J.
+AU  - Tinnirello, I.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6685212
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893303471&doi=10.1109%2fSustainIT.2013.6685212&partnerID=40&md5=4796db80a229677abe20d900c7f828d1
+ER  - 
+
+TY  - CONF
+TI  - Model-based assessment for balancing privacy requirements and operational capabilities in the smart grid
+T2  - 2015 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2015
+PY  - 2015
+DO  - 10.1109/ISGT.2015.7131805
+AU  - Knirsch, F.
+AU  - Engel, D.
+AU  - Frincu, M.
+AU  - Prasanna, V.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7131805
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939200228&doi=10.1109%2fISGT.2015.7131805&partnerID=40&md5=574ed6799e833e80b456d7e0a944705a
+ER  - 
+
+TY  - JOUR
+TI  - Mitigation of peer-to-peer overlay attacks in the automatic metering infrastructure of smart grids
+T2  - Security and Communication Networks
+VL  - 8
+IS  - 3
+SP  - 343
+EP  - 359
+PY  - 2015
+DO  - 10.1002/sec.983
+AU  - Rottondi, C.
+AU  - Savi, M.
+AU  - Verticale, G.
+AU  - Krauß, C.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921020529&doi=10.1002%2fsec.983&partnerID=40&md5=4d1a207cb621ff761193177f1d702deb
+ER  - 
+
+TY  - CONF
+TI  - LocED: Location-aware Energy Disaggregation Framework
+T2  - BuildSys 2015 - Proceedings of the 2nd ACM International Conference on Embedded Systems for Energy-Efficient Built
+SP  - 45
+EP  - 54
+PY  - 2015
+DO  - 10.1145/2821650.2821659
+AU  - Akshay Uttama Nambi, S.N.
+AU  - Reyes Lua, A.
+AU  - Venkatesha Prasad, R.
+N1  - Cited By :25
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959064681&doi=10.1145%2f2821650.2821659&partnerID=40&md5=101f2405272938e8286f4bfb6af04dad
+ER  - 
+
+TY  - CONF
+TI  - Load hiding of household's power demand
+T2  - 2014 IEEE International Conference on Smart Grid Communications, SmartGridComm 2014
+SP  - 854
+EP  - 859
+PY  - 2015
+DO  - 10.1109/SmartGridComm.2014.7007755
+AU  - Egarter, D.
+AU  - Prokop, C.
+AU  - Elmenreich, W.
+N1  - Cited By :14
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7007755
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84922454548&doi=10.1109%2fSmartGridComm.2014.7007755&partnerID=40&md5=7215e67cf64e2649e9ac19f13228a9ed
+ER  - 
+
+TY  - JOUR
+TI  - Load curve data cleansing and imputation via sparsity and low rank
+T2  - IEEE Transactions on Smart Grid
+VL  - 4
+IS  - 4
+SP  - 2347
+EP  - 2355
+PY  - 2013
+DO  - 10.1109/TSG.2013.2259853
+AU  - Mateos, G.
+AU  - Giannakis, G.B.
+N1  - Cited By :10
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6599011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84890437868&doi=10.1109%2fTSG.2013.2259853&partnerID=40&md5=8fc0328b72f076a3ed3767c079f7743f
+ER  - 
+
+TY  - JOUR
+TI  - Lightweight privacy-preserving data aggregation scheme for smart grid metering infrastructure protection
+T2  - International Journal of Critical Infrastructure Protection
+VL  - 22
+SP  - 16
+EP  - 24
+PY  - 2018
+DO  - 10.1016/j.ijcip.2018.04.005
+AU  - Baloglu, U.B.
+AU  - Demir, Y.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052324773&doi=10.1016%2fj.ijcip.2018.04.005&partnerID=40&md5=84b0e061ab04efe40e10a3b1cdeda067
+ER  - 
+
+TY  - CONF
+TI  - Lightweight privacy for smart metering data by adding noise
+T2  - Proceedings of the ACM Symposium on Applied Computing
+SP  - 531
+EP  - 538
+PY  - 2014
+DO  - 10.1145/2554850.2554982
+AU  - Barbosa, P.
+AU  - Brito, A.
+AU  - Almeida, H.
+AU  - Clauß, S.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905659300&doi=10.1145%2f2554850.2554982&partnerID=40&md5=2bdcbc519a78d47cf01eb4a06e9403e6
+ER  - 
+
+TY  - JOUR
+TI  - Lightweight and Privacy-Friendly Spatial Data Aggregation for Secure Power Supply and Demand Management in Smart Grids
+T2  - IEEE Transactions on Information Forensics and Security
+VL  - 14
+IS  - 6
+SP  - 1554
+EP  - 1566
+PY  - 2019
+DO  - 10.1109/TIFS.2018.2881730
+AU  - Gope, P.
+AU  - Sikdar, B.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 8537927
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056741751&doi=10.1109%2fTIFS.2018.2881730&partnerID=40&md5=41c6f06a54700446e16216926751df96
+ER  - 
+
+TY  - SER
+TI  - IT security architecture approaches for smart metering and smart grid
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7823 LNCS
+SP  - 1
+EP  - 25
+PY  - 2013
+DO  - 10.1007/978-3-642-38030-3_1
+AU  - Von Oheimb, D.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893096411&doi=10.1007%2f978-3-642-38030-3_1&partnerID=40&md5=27db66c73c850c45beed584da3d7226a
+ER  - 
+
+TY  - CONF
+TI  - Infrastructure and applications of Internet of Things in smart grids: A survey
+T2  - 2017 North American Power Symposium, NAPS 2017
+PY  - 2017
+DO  - 10.1109/NAPS.2017.8107283
+AU  - Bikmetov, R.
+AU  - Raja, M.Y.A.
+AU  - Sane, T.U.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8107283
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040596309&doi=10.1109%2fNAPS.2017.8107283&partnerID=40&md5=e21fb3ee5d7dc583097d1468b9279453
+ER  - 
+
+TY  - JOUR
+TI  - Information-Theoretic Privacy in Smart Metering Systems Using Cascaded Rechargeable Batteries
+T2  - IEEE Signal Processing Letters
+VL  - 24
+IS  - 3
+SP  - 314
+EP  - 318
+PY  - 2017
+DO  - 10.1109/LSP.2017.2656385
+AU  - Liu, Y.H.
+AU  - Lee, S.-H.
+AU  - Khisti, A.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7828124
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015177293&doi=10.1109%2fLSP.2017.2656385&partnerID=40&md5=5bb1c3d68559888983667ddffc7bce8a
+ER  - 
+
+TY  - JOUR
+TI  - Information-Theoretic Privacy for Smart Metering Systems with a Rechargeable Battery
+T2  - IEEE Transactions on Information Theory
+VL  - 64
+IS  - 5
+SP  - 3679
+EP  - 3695
+PY  - 2018
+DO  - 10.1109/TIT.2018.2809005
+AU  - Li, S.
+AU  - Khisti, A.
+AU  - Mahajan, A.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042691959&doi=10.1109%2fTIT.2018.2809005&partnerID=40&md5=7a62285589dc8d2e2f2f31963d8461a2
+ER  - 
+
+TY  - CONF
+TI  - Information theoretic privacy for smart meters
+T2  - 2013 Information Theory and Applications Workshop, ITA 2013 - Conference Proceedings
+SP  - 583
+EP  - 589
+PY  - 2013
+DO  - 10.1109/ITA.2013.6503006
+AU  - Gündüz, D.
+AU  - Gomez-Vilardebo, J.
+AU  - Tan, O.
+AU  - Poor, H.V.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6503006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877643023&doi=10.1109%2fITA.2013.6503006&partnerID=40&md5=f97d84a6dab51d0806fa867998c2dc88
+ER  - 
+
+TY  - CONF
+TI  - Information flow audit for transparency and compliance in the handling of personal data
+T2  - Proceedings - 2016 IEEE International Conference on Cloud Engineering Workshops, IC2EW 2016
+SP  - 112
+EP  - 117
+PY  - 2016
+DO  - 10.1109/IC2EW.2016.29
+AU  - Pasquier, T.F.J.-M.
+AU  - Eyers, D.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7527825
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992166481&doi=10.1109%2fIC2EW.2016.29&partnerID=40&md5=10f7a41ac752f880df44c046ec3c9a51
+ER  - 
+
+TY  - CONF
+TI  - Influence of noise-based perturbation on recommendation application
+T2  - 2016 IEEE International Conference on Smart Grid Communications, SmartGridComm 2016
+SP  - 14
+EP  - 19
+PY  - 2016
+DO  - 10.1109/SmartGridComm.2016.7778731
+AU  - Nakamura, Y.
+AU  - Hosoe, T.
+AU  - Nishi, H.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7778731
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010208901&doi=10.1109%2fSmartGridComm.2016.7778731&partnerID=40&md5=745334c7ce13a007734a88c5ffd5bed8
+ER  - 
+
+TY  - JOUR
+TI  - Influence of data granularity on smart meter privacy
+T2  - IEEE Transactions on Smart Grid
+VL  - 6
+IS  - 2
+SP  - 930
+EP  - 939
+PY  - 2015
+DO  - 10.1109/TSG.2014.2376613
+AU  - Eibl, G.
+AU  - Engel, D.
+N1  - Cited By :23
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6990609
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027939097&doi=10.1109%2fTSG.2014.2376613&partnerID=40&md5=064dad7ce99f819ef2dfbe629198dbf1
+ER  - 
+
+TY  - JOUR
+TI  - Increasing user controllability on device specific privacy in the Internet of Things
+T2  - Computer Communications
+VL  - 116
+SP  - 200
+EP  - 211
+PY  - 2018
+DO  - 10.1016/j.comcom.2017.11.009
+AU  - Asif, W.
+AU  - Rajarajan, M.
+AU  - Lestas, M.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043585684&doi=10.1016%2fj.comcom.2017.11.009&partnerID=40&md5=5dbeed35b3c5babf10258440a167bbeb
+ER  - 
+
+TY  - JOUR
+TI  - Increasing smart meter privacy through energy harvesting and storage devices
+T2  - IEEE Journal on Selected Areas in Communications
+VL  - 31
+IS  - 7
+SP  - 1331
+EP  - 1341
+PY  - 2013
+DO  - 10.1109/JSAC.2013.130715
+AU  - Tan, O.
+AU  - Gunduz, D.
+AU  - Poor, H.V.
+N1  - Cited By :59
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6547840
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880229460&doi=10.1109%2fJSAC.2013.130715&partnerID=40&md5=05afafb9273545a9e4c75937641143d4
+ER  - 
+
+TY  - JOUR
+TI  - Increasing base station anonymity using distributed beamforming
+T2  - Ad Hoc Networks
+VL  - 32
+SP  - 53
+EP  - 80
+PY  - 2015
+DO  - 10.1016/j.adhoc.2015.01.001
+AU  - Ward, J.R.
+AU  - Younis, M.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 1176
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930755098&doi=10.1016%2fj.adhoc.2015.01.001&partnerID=40&md5=60aa6c420f5262851af5bbc968cdb0d2
+ER  - 
+
+TY  - CONF
+TI  - Implementation of industrial cloud applications as controlled local systems (CLS) in a smart grid context
+T2  - IEEE International Conference on Emerging Technologies and Factory Automation, ETFA
+SP  - 1
+EP  - 7
+PY  - 2018
+DO  - 10.1109/ETFA.2017.8247687
+AU  - Henneke, D.
+AU  - Freudenmann, C.
+AU  - Wisniewski, L.
+AU  - Jasperneite, J.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044476380&doi=10.1109%2fETFA.2017.8247687&partnerID=40&md5=226bbd2eddb478d98be574fe686b541e
+ER  - 
+
+TY  - CONF
+TI  - Implementation of a protocol for secure distributed aggregation of smart metering data
+T2  - 2012 International Conference on Smart Grid Technology, Economics and Policies, SG-TEP 2012
+PY  - 2012
+DO  - 10.1109/SG-TEP.2012.6642383
+AU  - Rottondi, C.
+AU  - Savi, M.
+AU  - Polenghi, D.
+AU  - Verticale, G.
+AU  - Kraus, C.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6642383
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84890878959&doi=10.1109%2fSG-TEP.2012.6642383&partnerID=40&md5=a5f16846d69f5779622aabc2189ee2c3
+ER  - 
+
+TY  - JOUR
+TI  - Impacts of Raw Data Temporal Resolution Using Selected Clustering Methods on Residential Electricity Load Profiles
+T2  - IEEE Transactions on Power Systems
+VL  - 30
+IS  - 6
+SP  - 3217
+EP  - 3224
+PY  - 2015
+DO  - 10.1109/TPWRS.2014.2377213
+AU  - Granell, R.
+AU  - Axon, C.J.
+AU  - Wallom, D.C.H.
+N1  - Cited By :24
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6994292
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027919672&doi=10.1109%2fTPWRS.2014.2377213&partnerID=40&md5=038c9a77c4b3f760c1294f38e22a8228
+ER  - 
+
+TY  - JOUR
+TI  - Identification of charging behavior characteristic for large-scale heterogeneous electric vehicle fleet
+T2  - Journal of Modern Power Systems and Clean Energy
+VL  - 6
+IS  - 3
+SP  - 567
+EP  - 581
+PY  - 2018
+DO  - 10.1007/s40565-017-0337-5
+AU  - Liu, P.
+AU  - Yu, J.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046642937&doi=10.1007%2fs40565-017-0337-5&partnerID=40&md5=38d83984270b45e4e79f6e42587266c4
+ER  - 
+
+TY  - SER
+TI  - I have a DREAM! (DiffeRentially privatE smArt Metering)
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 6958 LNCS
+SP  - 118
+EP  - 132
+PY  - 2011
+DO  - 10.1007/978-3-642-24178-9_9
+AU  - Ács, G.
+AU  - Castelluccia, C.
+N1  - Cited By :131
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80053020495&doi=10.1007%2f978-3-642-24178-9_9&partnerID=40&md5=9da3f9118c998bd5884baaadc9d55ec7
+ER  - 
+
+TY  - JOUR
+TI  - Human-factor-aware privacy-preserving aggregation in smart grid
+T2  - IEEE Systems Journal
+VL  - 8
+IS  - 2
+SP  - 598
+EP  - 607
+PY  - 2014
+DO  - 10.1109/JSYST.2013.2260937
+AU  - Jia, W.
+AU  - Zhu, H.
+AU  - Cao, Z.
+AU  - Dong, X.
+AU  - Xiao, C.
+N1  - Cited By :44
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6541956
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84902299754&doi=10.1109%2fJSYST.2013.2260937&partnerID=40&md5=4ac8e76b7ca572d904bfd7bff5a15697
+ER  - 
+
+TY  - CONF
+TI  - HMM-Based Fast Detection of False Data Injections in Advanced Metering Infrastructure
+T2  - 2017 IEEE Global Communications Conference, GLOBECOM 2017 - Proceedings
+VL  - 2018-January
+SP  - 1
+EP  - 6
+PY  - 2018
+DO  - 10.1109/GLOCOM.2017.8254498
+AU  - Li, B.
+AU  - Lu, R.
+AU  - Xiao, G.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046366121&doi=10.1109%2fGLOCOM.2017.8254498&partnerID=40&md5=ff7b464a1c49d0048e7c910f747f81d8
+ER  - 
+
+TY  - CONF
+TI  - Harnessing personal data from Internet of Things: Privacy enhancing dynamic information monitoring
+T2  - 2015 International Conference on Collaboration Technologies and Systems, CTS 2015
+SP  - 37
+PY  - 2015
+DO  - 10.1109/CTS.2015.7210393
+AU  - Xiong, L.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7210393
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959477494&doi=10.1109%2fCTS.2015.7210393&partnerID=40&md5=636b0e49bb9b877254beb280eb99bfd0
+ER  - 
+
+TY  - CONF
+TI  - GridPriv: A smart metering architecture offering k-anonymity
+T2  - Proc. of the 11th IEEE Int. Conference on Trust, Security and Privacy in Computing and Communications, TrustCom-2012 - 11th IEEE Int. Conference on Ubiquitous Computing and Communications, IUCC-2012
+SP  - 419
+EP  - 426
+PY  - 2012
+DO  - 10.1109/TrustCom.2012.170
+AU  - Stegelmann, M.
+AU  - Kesdogan, D.
+N1  - Cited By :19
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6296003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84868131423&doi=10.1109%2fTrustCom.2012.170&partnerID=40&md5=9ce3437c5d682bb0a8aec2e8b318e4e8
+ER  - 
+
+TY  - CONF
+TI  - Formalizing anonymity-delay tradeoffs in smart grid networks
+T2  - 2016 4th IEEE International Conference on Smart Energy Grid Engineering, SEGE 2016
+SP  - 353
+EP  - 357
+PY  - 2016
+DO  - 10.1109/SEGE.2016.7589551
+AU  - Lipton, B.
+AU  - Mishra, S.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7589551
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84995610118&doi=10.1109%2fSEGE.2016.7589551&partnerID=40&md5=0b0707212dfade0bcec64f7a1a5fd8db
+ER  - 
+
+TY  - CONF
+TI  - Forensic content detection through power consumption
+T2  - IEEE International Conference on Communications
+SP  - 6759
+EP  - 6763
+PY  - 2012
+DO  - 10.1109/ICC.2012.6364822
+AU  - Greveler, U.
+AU  - Justus, B.
+AU  - Loehr, D.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6364822
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84871982259&doi=10.1109%2fICC.2012.6364822&partnerID=40&md5=830872329fe02cc316bcc0408eb356c6
+ER  - 
+
+TY  - CONF
+TI  - Exploring the use of intel sgx for secure many-party applications
+T2  - SysTEX 2016 - 1st Workshop on System Software for Trusted Execution, colocated with ACM/IFIP/USENIX Middleware 2016
+PY  - 2016
+DO  - 10.1145/3007788.3007793
+AU  - Küçük, K.A.
+AU  - Paverd, A.
+AU  - Martin, A.
+AU  - Asokan, N.
+AU  - Simpson, A.
+AU  - Ankele, R.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - a5
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85009473721&doi=10.1145%2f3007788.3007793&partnerID=40&md5=050df0f0108fa34f9ab1554eae1a7210
+ER  - 
+
+TY  - CONF
+TI  - Event-based information-theoretic privacy: A case study of smart meters
+T2  - Proceedings of the American Control Conference
+VL  - 2016-July
+SP  - 2074
+EP  - 2079
+PY  - 2016
+DO  - 10.1109/ACC.2016.7525224
+AU  - Han, S.
+AU  - Topcu, U.
+AU  - Pappas, G.J.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7525224
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992075075&doi=10.1109%2fACC.2016.7525224&partnerID=40&md5=704c10d93ac83f397e6e6bd843140f36
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of utility-privacy trade-offs of data manipulation techniques for smart metering
+T2  - 2016 IEEE Conference on Communications and Network Security, CNS 2016
+SP  - 396
+EP  - 400
+PY  - 2017
+DO  - 10.1109/CNS.2016.7860526
+AU  - Yang, H.
+AU  - Cheng, L.
+AU  - Chuah, M.C.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7860526
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016072050&doi=10.1109%2fCNS.2016.7860526&partnerID=40&md5=7965d3d4c706c61bd5856c2ce9323755
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of the Precision-Privacy Tradeoff of Data Perturbation for Smart Metering
+T2  - IEEE Transactions on Smart Grid
+VL  - 6
+IS  - 5
+SP  - 2409
+EP  - 2416
+PY  - 2015
+DO  - 10.1109/TSG.2014.2387848
+AU  - Savi, M.
+AU  - Rottondi, C.
+AU  - Verticale, G.
+N1  - Cited By :17
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7017599
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939815790&doi=10.1109%2fTSG.2014.2387848&partnerID=40&md5=2d6486a9f2c7cd33f7dde5a2737e24bf
+ER  - 
+
+TY  - CONF
+TI  - ESKAMI: Efficient and scalable multi-group key management for advanced metering infrastructure in smart grid
+T2  - Proceedings - 14th IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2015
+VL  - 1
+SP  - 782
+EP  - 789
+PY  - 2015
+DO  - 10.1109/Trustcom.2015.447
+AU  - Benmalek, M.
+AU  - Challal, Y.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7345355
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84967019264&doi=10.1109%2fTrustcom.2015.447&partnerID=40&md5=766dd7e2eb01c6c22d9ccd1bc0b4f837
+ER  - 
+
+TY  - JOUR
+TI  - Error-Resilient Masking Approaches for Privacy Preserving Data Aggregation
+T2  - IEEE Transactions on Smart Grid
+VL  - 9
+IS  - 4
+SP  - 3351
+EP  - 3361
+PY  - 2018
+DO  - 10.1109/TSG.2016.2630803
+AU  - Knirsch, F.
+AU  - Eibl, G.
+AU  - Engel, D.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049034739&doi=10.1109%2fTSG.2016.2630803&partnerID=40&md5=e75efaa58b9fcb04839cc042f7aace65
+ER  - 
+
+TY  - JOUR
+TI  - EPPP4SMS: Efficient privacy-preserving protocol for smart metering systems and its simulation using real-world data
+T2  - IEEE Transactions on Smart Grid
+VL  - 5
+IS  - 6
+SP  - 2701
+EP  - 2708
+PY  - 2014
+DO  - 10.1109/TSG.2014.2336265
+AU  - Borges, F.
+AU  - Muhlhauser, M.
+N1  - Cited By :25
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6862920
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908307120&doi=10.1109%2fTSG.2014.2336265&partnerID=40&md5=ef4df903ad753475c4a33dc2af6971da
+ER  - 
+
+TY  - CONF
+TI  - Enhancing user privacy by preprocessing distributed smart meter data
+T2  - 2013 Sustainable Internet and ICT for Sustainability, SustainIT 2013
+PY  - 2013
+DO  - 10.1109/SustainIT.2013.6685194
+AU  - Reinhardt, A.
+AU  - Englert, F.
+AU  - Christin, D.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6685194
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893340323&doi=10.1109%2fSustainIT.2013.6685194&partnerID=40&md5=7d566e575f2d8d4473381324e8a91bc4
+ER  - 
+
+TY  - JOUR
+TI  - Enhanced network coding to maintain privacy in smart grid communication
+T2  - IEEE Transactions on Emerging Topics in Computing
+VL  - 1
+IS  - 2
+SP  - 286
+EP  - 296
+PY  - 2013
+DO  - 10.1109/TETC.2013.2288275
+AU  - Nicanfar, H.
+AU  - Talebifard, P.
+AU  - Alasaad, A.
+AU  - Leung, V.C.M.
+N1  - Cited By :10
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6654291
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928721888&doi=10.1109%2fTETC.2013.2288275&partnerID=40&md5=28ceb41c54959374dc8a54ec9efd1d6b
+ER  - 
+
+TY  - JOUR
+TI  - Energy-theft detection issues for advanced metering infrastructure in smart grid
+T2  - Tsinghua Science and Technology
+VL  - 19
+IS  - 2
+SP  - 105
+EP  - 120
+PY  - 2014
+DO  - 10.1109/TST.2014.6787363
+AU  - Jiang, R.
+AU  - Lu, R.
+AU  - Wang, Y.
+AU  - Luo, J.
+AU  - Shen, C.
+AU  - Shen, X.
+N1  - Cited By :81
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6787363
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899799964&doi=10.1109%2fTST.2014.6787363&partnerID=40&md5=cfd2233ffe5b342f9ff40a5dc61a3b49
+ER  - 
+
+TY  - JOUR
+TI  - Energy Big Data Analytics and Security: Challenges and Opportunities
+T2  - IEEE Transactions on Smart Grid
+VL  - 7
+IS  - 5
+SP  - 2432
+EP  - 2436
+PY  - 2016
+DO  - 10.1109/TSG.2016.2563461
+AU  - Hu, J.
+AU  - Vasilakos, A.V.
+N1  - Cited By :36
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7466849
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984631748&doi=10.1109%2fTSG.2016.2563461&partnerID=40&md5=54ecc9f824b81ad42067b141af5f9047
+ER  - 
+
+TY  - CONF
+TI  - Employing Private Data in AMI Applications: Short Term Load Forecasting Using Differentially Private Aggregated Data
+T2  - Proceedings - 13th IEEE International Conference on Ubiquitous Intelligence and Computing, 13th IEEE International Conference on Advanced and Trusted Computing, 16th IEEE International Conference on Scalable Computing and Communications, IEEE International Conference on Cloud and Big Data Computing, IEEE International Conference on Internet of People and IEEE Smart World Congress and Workshops, UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld 2016
+SP  - 404
+EP  - 413
+PY  - 2017
+DO  - 10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0076
+AU  - Tudor, V.
+AU  - Almgren, M.
+AU  - Papatriantafilou, M.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7816872
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013150825&doi=10.1109%2fUIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0076&partnerID=40&md5=abcff6af6a229a5ef4cbf5c2b56a095f
+ER  - 
+
+TY  - SER
+TI  - Embedded cyber-physical anomaly detection in smart meters
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7722 LNCS
+SP  - 34
+EP  - 45
+PY  - 2013
+DO  - 10.1007/978-3-642-41485-5_4
+AU  - Raciti, M.
+AU  - Nadjm-Tehrani, S.
+N1  - Cited By :12
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893119961&doi=10.1007%2f978-3-642-41485-5_4&partnerID=40&md5=fc9c872a1ba40316f3e56bff8e3fde64
+ER  - 
+
+TY  - CONF
+TI  - Elderberry: A peer-to-peer, privacy-aware smart metering protocol
+T2  - Proceedings - IEEE INFOCOM
+SP  - 3411
+EP  - 3416
+PY  - 2013
+DO  - 10.1109/INFCOM.2013.6567173
+AU  - Finster, S.
+AU  - Baumgart, I.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6567173
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883121744&doi=10.1109%2fINFCOM.2013.6567173&partnerID=40&md5=f39e7ead0a9285396134e15f153ce9b1
+ER  - 
+
+TY  - JOUR
+TI  - Efficiently outsourcing multiparty computation under multiple keys
+T2  - IEEE Transactions on Information Forensics and Security
+VL  - 8
+IS  - 12
+SP  - 2046
+EP  - 2058
+PY  - 2013
+DO  - 10.1109/TIFS.2013.2288131
+AU  - Peter, A.
+AU  - Tews, E.
+AU  - Katzenbeisser, S.
+N1  - Cited By :56
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6651830
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84888390701&doi=10.1109%2fTIFS.2013.2288131&partnerID=40&md5=37dbd0cb38a2e60749849b1cd25cd5e2
+ER  - 
+
+TY  - JOUR
+TI  - Efficient smart metering based on homomorphic encryption
+T2  - Computer Communications
+VL  - 82
+SP  - 95
+EP  - 101
+PY  - 2016
+DO  - 10.1016/j.comcom.2015.08.016
+AU  - Busom, N.
+AU  - Petrlic, R.
+AU  - Sebé, F.
+AU  - Sorge, C.
+AU  - Valls, M.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84962798356&doi=10.1016%2fj.comcom.2015.08.016&partnerID=40&md5=477562518fad6aaef15b1598d3cd413b
+ER  - 
+
+TY  - JOUR
+TI  - Efficient privacy-preserving temporal and spacial data aggregation for smart grid communications
+T2  - Concurrency Computation
+VL  - 28
+IS  - 4
+SP  - 1145
+EP  - 1160
+PY  - 2016
+DO  - 10.1002/cpe.3570
+AU  - Dong, X.
+AU  - Zhou, J.
+AU  - Cao, Z.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958842375&doi=10.1002%2fcpe.3570&partnerID=40&md5=1cddf0117057c2626b7843c1898baa18
+ER  - 
+
+TY  - JOUR
+TI  - Efficient and Privacy-Preserving Metering Protocols for Smart Grid Systems
+T2  - IEEE Transactions on Smart Grid
+VL  - 7
+IS  - 3
+SP  - 1732
+EP  - 1742
+PY  - 2016
+DO  - 10.1109/TSG.2015.2449278
+AU  - Jo, H.J.
+AU  - Kim, I.S.
+AU  - Lee, D.H.
+N1  - Cited By :23
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7163628
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937717111&doi=10.1109%2fTSG.2015.2449278&partnerID=40&md5=e54bca29096ae8332086dc53339cd6e9
+ER  - 
+
+TY  - JOUR
+TI  - Efficient and privacy-preserving data aggregation and dynamic billing in smart grid metering networks
+T2  - Energies
+VL  - 11
+IS  - 8
+PY  - 2018
+DO  - 10.3390/en11082085
+AU  - Braeken, A.
+AU  - Kumar, P.
+AU  - Martin, A.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 2085
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052791013&doi=10.3390%2fen11082085&partnerID=40&md5=c4662afcd302c8b468cd7265baaf7b4f
+ER  - 
+
+TY  - JOUR
+TI  - Efficient and Privacy-Aware Power Injection over AMI and Smart Grid Slice in Future 5G Networks
+T2  - Mobile Information Systems
+VL  - 2017
+PY  - 2017
+DO  - 10.1155/2017/3680671
+AU  - Zhang, Y.
+AU  - Zhao, J.
+AU  - Zheng, D.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 3680671
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013237621&doi=10.1155%2f2017%2f3680671&partnerID=40&md5=cc05b8ca8f2e4c6d41de134a3ce1b909
+ER  - 
+
+TY  - JOUR
+TI  - Effective cooperation with energy consumers: An example of an ethical approach to introduce an innovative solution
+T2  - Journal of Information, Communication and Ethics in Society
+VL  - 12
+IS  - 2
+SP  - 107
+EP  - 121
+PY  - 2014
+DO  - 10.1108/JICES-07-2013-0021
+AU  - Begier, B.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899016440&doi=10.1108%2fJICES-07-2013-0021&partnerID=40&md5=48827e3869441268f1fbf6a7e64beb73
+ER  - 
+
+TY  - CONF
+TI  - EDAT: Efficient data aggregation without TTP for privacy-assured smart metering
+T2  - 2016 IEEE International Conference on Communications, ICC 2016
+PY  - 2016
+DO  - 10.1109/ICC.2016.7510611
+AU  - Ni, J.
+AU  - Zhang, K.
+AU  - Lin, X.
+AU  - Shen, X.S.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7510611
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84981313477&doi=10.1109%2fICC.2016.7510611&partnerID=40&md5=040949c704f4b31f87f7ba04c21ef0cf
+ER  - 
+
+TY  - CONF
+TI  - ECQ: An efficient conjunctive query scheme over encrypted multidimensional data in smart grid
+T2  - GLOBECOM - IEEE Global Telecommunications Conference
+SP  - 796
+EP  - 801
+PY  - 2013
+DO  - 10.1109/GLOCOM.2013.6831170
+AU  - Wen, M.
+AU  - Lu, R.
+AU  - Lei, J.
+AU  - Liang, X.
+AU  - Li, H.
+AU  - Shen, X.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6831170
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904113420&doi=10.1109%2fGLOCOM.2013.6831170&partnerID=40&md5=bc1cb59dfc36e997a81a045b7e9a04e3
+ER  - 
+
+TY  - CONF
+TI  - Economic analysis of privacy-aware advanced metering infrastructure adoption
+T2  - 2012 IEEE PES Innovative Smart Grid Technologies, ISGT 2012
+PY  - 2012
+DO  - 10.1109/ISGT.2012.6175740
+AU  - Ghosh, D.P.
+AU  - Schrader, D.E.
+AU  - Schulze, W.D.
+AU  - Wicker, S.B.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6175740
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860860441&doi=10.1109%2fISGT.2012.6175740&partnerID=40&md5=61c98e61ebff0be0bde78cd6aa8946b8
+ER  - 
+
+TY  - SER
+TI  - DPIP: A demand response privacy preserving interaction protocol: For trusted third party involvement
+T2  - Lecture Notes in Business Information Processing
+VL  - 228
+SP  - 224
+EP  - 234
+PY  - 2015
+DO  - 10.1007/978-3-319-26762-3_20
+AU  - Karwe, M.
+AU  - Müller, G.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84952683573&doi=10.1007%2f978-3-319-26762-3_20&partnerID=40&md5=c7f47c23c80bdf254ed083409340c3de
+ER  - 
+
+TY  - JOUR
+TI  - Do not snoop my habits: Preserving privacy in the smart grid
+T2  - IEEE Communications Magazine
+VL  - 50
+IS  - 5
+SP  - 166
+EP  - 172
+PY  - 2012
+DO  - 10.1109/MCOM.2012.6194398
+AU  - Mármol, F.G.
+AU  - Sorge, C.
+AU  - Ugus, O.
+AU  - Pérez, G.M.
+N1  - Cited By :82
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6194398
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860860164&doi=10.1109%2fMCOM.2012.6194398&partnerID=40&md5=26559afb483bca6a08e668b59d6d1134
+ER  - 
+
+TY  - SER
+TI  - Distributed privacy-preserving data aggregation via anonymization
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 9466
+SP  - 94
+EP  - 108
+PY  - 2015
+DO  - 10.1007/978-3-319-26850-7_7
+AU  - Benkaouz, Y.
+AU  - Erradi, M.
+AU  - Freisleben, B.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961141090&doi=10.1007%2f978-3-319-26850-7_7&partnerID=40&md5=518bf129894b27ee29b635e53f9baf0c
+ER  - 
+
+TY  - JOUR
+TI  - Distributed privacy-preserving aggregation of metering data in smart grids
+T2  - IEEE Journal on Selected Areas in Communications
+VL  - 31
+IS  - 7
+SP  - 1342
+EP  - 1354
+PY  - 2013
+DO  - 10.1109/JSAC.2013.130716
+AU  - Rottondi, C.
+AU  - Verticale, G.
+AU  - Krauß, C.
+N1  - Cited By :50
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6547841
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880204032&doi=10.1109%2fJSAC.2013.130716&partnerID=40&md5=c82cd5361a58d69e101a281d42ec14c0
+ER  - 
+
+TY  - JOUR
+TI  - Differentially Private Smart Metering with Fault Tolerance and Range-Based Filtering
+T2  - IEEE Transactions on Smart Grid
+VL  - 8
+IS  - 5
+SP  - 2483
+EP  - 2493
+PY  - 2017
+DO  - 10.1109/TSG.2017.2673843
+AU  - Ni, J.
+AU  - Zhang, K.
+AU  - Alharbi, K.
+AU  - Lin, X.
+AU  - Zhang, N.
+AU  - Shen, X.S.
+N1  - Cited By :12
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7862928
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029554588&doi=10.1109%2fTSG.2017.2673843&partnerID=40&md5=7df3488430ecc391f0c007785b9c178d
+ER  - 
+
+TY  - SER
+TI  - Differentially private smart metering with battery recharging
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 8247 LNCS
+SP  - 194
+EP  - 212
+PY  - 2014
+DO  - 10.1007/978-3-642-54568-9_13
+AU  - Backes, M.
+AU  - Meiser, S.
+N1  - Cited By :20
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958533795&doi=10.1007%2f978-3-642-54568-9_13&partnerID=40&md5=6892f8fd63deeb4153dcbf8cc23a2705
+ER  - 
+
+TY  - JOUR
+TI  - Differential privacy for real smart metering data
+T2  - Computer Science - Research and Development
+VL  - 32
+IS  - 1-2
+SP  - 173
+EP  - 182
+PY  - 2017
+DO  - 10.1007/s00450-016-0310-y
+AU  - Eibl, G.
+AU  - Engel, D.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84978049926&doi=10.1007%2fs00450-016-0310-y&partnerID=40&md5=f92bbd6324d0fd2de18652430c993c09
+ER  - 
+
+TY  - CONF
+TI  - Detection of anomalies in smart meter data: A density-based approach
+T2  - IEEE Proceedings 2017 Smart Grid Conference, SGC 2017
+VL  - 2018-January
+SP  - 1
+EP  - 6
+PY  - 2018
+DO  - 10.1109/SGC.2017.8308852
+AU  - Fathnia, F.
+AU  - Fathnia, F.
+AU  - Javidi, D.B.M.H.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049095058&doi=10.1109%2fSGC.2017.8308852&partnerID=40&md5=64982ddf8f3ad385d18fbb3ecbdefdaf
+ER  - 
+
+TY  - CONF
+TI  - Detecting Swimming Pools in 15-Minute Load Data
+T2  - Proceedings - 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications and 12th IEEE International Conference on Big Data Science and Engineering, Trustcom/BigDataSE 2018
+SP  - 1651
+EP  - 1655
+PY  - 2018
+DO  - 10.1109/TrustCom/BigDataSE.2018.00244
+AU  - Burkhart, S.
+AU  - Unterweger, A.
+AU  - Eibl, G.
+AU  - Engel, D.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8456112
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054056329&doi=10.1109%2fTrustCom%2fBigDataSE.2018.00244&partnerID=40&md5=f006e11d417a66916b57ecfdd7b67df9
+ER  - 
+
+TY  - CONF
+TI  - Detecting non-technical energy losses through structural periodic patterns in AMI data
+T2  - Proceedings - 2016 IEEE International Conference on Big Data, Big Data 2016
+SP  - 3121
+EP  - 3130
+PY  - 2016
+DO  - 10.1109/BigData.2016.7840967
+AU  - Botev, V.
+AU  - Almgren, M.
+AU  - Gulisano, V.
+AU  - Landsiedel, O.
+AU  - Papatriantafilou, M.
+AU  - Van Rooij, J.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7840967
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015220720&doi=10.1109%2fBigData.2016.7840967&partnerID=40&md5=ec777ed9aad18995d924206a5ca0d8cb
+ER  - 
+
+TY  - CONF
+TI  - Detecting false data injection in smart grid in-network aggregation
+T2  - 2013 IEEE International Conference on Smart Grid Communications, SmartGridComm 2013
+SP  - 408
+EP  - 413
+PY  - 2013
+DO  - 10.1109/SmartGridComm.2013.6687992
+AU  - Yang, L.
+AU  - Li, F.
+N1  - Cited By :17
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6687992
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893618889&doi=10.1109%2fSmartGridComm.2013.6687992&partnerID=40&md5=4daed93faa0925a1692cd983c9726737
+ER  - 
+
+TY  - CONF
+TI  - Despicable me(ter): Anonymous and fine-grained metering data reporting with dishonest meters
+T2  - 2016 IEEE Conference on Communications and Network Security, CNS 2016
+SP  - 163
+EP  - 171
+PY  - 2017
+DO  - 10.1109/CNS.2016.7860482
+AU  - Ambrosin, M.
+AU  - Hosseini, H.
+AU  - Mandal, K.
+AU  - Conti, M.
+AU  - Poovendran, R.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7860482
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016025857&doi=10.1109%2fCNS.2016.7860482&partnerID=40&md5=399182c6b229e862bb57107e98740e3d
+ER  - 
+
+TY  - CONF
+TI  - Deriving Customer Privacy from Randomly Perturbed Smart Metering Data
+T2  - Proceedings - IEEE 16th International Conference on Industrial Informatics, INDIN 2018
+SP  - 959
+EP  - 965
+PY  - 2018
+DO  - 10.1109/INDIN.2018.8471935
+AU  - Zhao, Y.
+AU  - Li, D.
+AU  - Liu, Q.
+AU  - Lv, Q.
+AU  - Shang, L.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8471935
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055545355&doi=10.1109%2fINDIN.2018.8471935&partnerID=40&md5=ff636f02b8e1240804106698672e530b
+ER  - 
+
+TY  - CONF
+TI  - De-pseudonymization of smart metering data: Analysis and countermeasures
+T2  - 2018 Global Internet of Things Summit, GIoTS 2018
+PY  - 2018
+DO  - 10.1109/GIOTS.2018.8534430
+AU  - Cleemput, S.
+AU  - Mustafa, M.A.
+AU  - Marin, E.
+AU  - Preneel, B.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8534430
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059087977&doi=10.1109%2fGIOTS.2018.8534430&partnerID=40&md5=bc7f9b87c2a555a87dd8eab279fdaf5d
+ER  - 
+
+TY  - JOUR
+TI  - DEP2SA: A decentralized efficient privacy-preserving and selective aggregation scheme in advanced metering infrastructure
+T2  - IEEE Access
+VL  - 3
+SP  - 2828
+EP  - 2846
+PY  - 2015
+DO  - 10.1109/ACCESS.2015.2506198
+AU  - Mustafa, M.A.
+AU  - Zhang, N.
+AU  - Kalogridis, G.
+AU  - Fan, Z.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7348648
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961327023&doi=10.1109%2fACCESS.2015.2506198&partnerID=40&md5=97929f1946ddea2dcc624b3059b59992
+ER  - 
+
+TY  - CONF
+TI  - Defending against load monitoring in smart metering data through noise addition
+T2  - Proceedings of the ACM Symposium on Applied Computing
+VL  - 13-17-April-2015
+SP  - 2218
+EP  - 2224
+PY  - 2015
+DO  - 10.1145/2695664.2695800
+AU  - Barbosa, P.
+AU  - Brito, A.
+AU  - Almeida, H.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955506989&doi=10.1145%2f2695664.2695800&partnerID=40&md5=d85648d7a19f0a86827bb872b22580c0
+ER  - 
+
+TY  - CONF
+TI  - Decentralized energy management for a group of heterogenous residential customers
+T2  - Proceedings of the 2015 IEEE Innovative Smart Grid Technologies - Asia, ISGT ASIA 2015
+PY  - 2016
+DO  - 10.1109/ISGT-Asia.2015.7387183
+AU  - Rajasekhar, B.
+AU  - Pindoriya, N.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7387183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964941336&doi=10.1109%2fISGT-Asia.2015.7387183&partnerID=40&md5=3bbfca8ed127dbdcdc6f1e8675979711
+ER  - 
+
+TY  - SER
+TI  - Data protection in a cloud-enabled smart grid
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7823 LNCS
+SP  - 96
+EP  - 107
+PY  - 2013
+DO  - 10.1007/978-3-642-38030-3_7
+AU  - Fromm, A.
+AU  - Kelbert, F.
+AU  - Pretschner, A.
+N1  - Cited By :6
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893146315&doi=10.1007%2f978-3-642-38030-3_7&partnerID=40&md5=479755d2b0e9ea13b7e0341db2b28820
+ER  - 
+
+TY  - CONF
+TI  - Data protection aspects in Lebesgue-based meters
+T2  - 2016 2nd International Conference on Event-Based Control, Communication, and Signal Processing, EBCCSP 2016 - Proceedings
+PY  - 2016
+DO  - 10.1109/EBCCSP.2016.7605088
+AU  - Simonov, M.
+AU  - Zanetto, G.
+AU  - Chicco, G.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7605088
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84998772473&doi=10.1109%2fEBCCSP.2016.7605088&partnerID=40&md5=6e6f30afbc1c2f8870ee46fb1e8e61d2
+ER  - 
+
+TY  - JOUR
+TI  - Cybersecurity and privacy in standards for smart grids – A comprehensive survey
+T2  - Computer Standards and Interfaces
+VL  - 56
+SP  - 62
+EP  - 73
+PY  - 2018
+DO  - 10.1016/j.csi.2017.09.005
+AU  - Leszczyna, R.
+N1  - Cited By :9
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029898473&doi=10.1016%2fj.csi.2017.09.005&partnerID=40&md5=4e2e775489e73aa7a31bd34a07000c28
+ER  - 
+
+TY  - JOUR
+TI  - Cyber security and privacy issues in smart grids
+T2  - IEEE Communications Surveys and Tutorials
+VL  - 14
+IS  - 4
+SP  - 981
+EP  - 997
+PY  - 2012
+DO  - 10.1109/SURV.2011.122111.00145
+AU  - Liu, J.
+AU  - Xiao, Y.
+AU  - Li, S.
+AU  - Liang, W.
+AU  - Chen, C.L.P.
+N1  - Cited By :220
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6129371
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893572193&doi=10.1109%2fSURV.2011.122111.00145&partnerID=40&md5=66efce5af381b54e34961ee85d4df044
+ER  - 
+
+TY  - CONF
+TI  - Consumer-centric and service-oriented architecture for the envisioned energy internet
+T2  - Proceedings - 18th Euromicro Conference on Digital System Design, DSD 2015
+SP  - 301
+EP  - 305
+PY  - 2015
+DO  - 10.1109/DSD.2015.50
+AU  - Mikkelsen, S.A.
+AU  - Jacobsen, R.H.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7302289
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958171581&doi=10.1109%2fDSD.2015.50&partnerID=40&md5=bb25dd5425c9f3e60c595e6e472bf5fd
+ER  - 
+
+TY  - CONF
+TI  - Conditional access smart meter privacy based on multi-resolution wavelet analysis
+T2  - ACM International Conference Proceeding Series
+PY  - 2011
+DO  - 10.1145/2093698.2093743
+AU  - Engel, D.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856692313&doi=10.1145%2f2093698.2093743&partnerID=40&md5=6f600babd9f5a2f43fe7553ecef81b26
+ER  - 
+
+TY  - CONF
+TI  - Computing encrypted cloud data efficiently under multiple keys
+T2  - 2013 IEEE Conference on Communications and Network Security, CNS 2013
+SP  - 504
+EP  - 513
+PY  - 2013
+DO  - 10.1109/CNS.2013.6682768
+AU  - Wang, B.
+AU  - Li, M.
+AU  - Chow, S.S.M.
+AU  - Li, H.
+N1  - Cited By :24
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6682768
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893597100&doi=10.1109%2fCNS.2013.6682768&partnerID=40&md5=c5b6ebf47357b1160eba6e33dddab379
+ER  - 
+
+TY  - CONF
+TI  - Computational environmental ethnography: Combining collective sensing and ethnographic inquiries to advance means for reducing environmental footprints
+T2  - e-Energy 2013 - Proceedings of the 4th ACM International Conference on Future Energy Systems
+SP  - 87
+EP  - 98
+PY  - 2013
+DO  - 10.1145/2487166.2487176
+AU  - Blunck, H.
+AU  - Bouvin, N.O.
+AU  - Mose Entwistle, J.
+AU  - Grønbæk, K.
+AU  - Kjærgaard, M.B.
+AU  - Nielsen, M.
+AU  - Graves Petersen, M.
+AU  - Rasmussen, M.K.
+AU  - Wüstenberg, M.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84878663739&doi=10.1145%2f2487166.2487176&partnerID=40&md5=551398efebeaabf7d921605e404c5bd3
+ER  - 
+
+TY  - CONF
+TI  - Comparative evaluation of Smart Grid AMI networks: Performance under privacy
+T2  - Proceedings - IEEE Symposium on Computers and Communications
+VL  - 2016-August
+SP  - 1134
+EP  - 1136
+PY  - 2016
+DO  - 10.1109/ISCC.2016.7543889
+AU  - Ozgur, U.
+AU  - Tonyali, S.
+AU  - Akkaya, K.
+AU  - Senel, F.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7543889
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84985920582&doi=10.1109%2fISCC.2016.7543889&partnerID=40&md5=67644a40a1ed39c3e39e877522b75f1d
+ER  - 
+
+TY  - CONF
+TI  - Communication-efficient privacy-preserving smart metering
+T2  - ACM International Conference Proceeding Series
+VL  - Part F130530
+SP  - 109
+EP  - 114
+PY  - 2017
+DO  - 10.1145/3129790.3129802
+AU  - Eskeland, S.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85037721305&doi=10.1145%2f3129790.3129802&partnerID=40&md5=75f46c31b9784a203496c8c8d098e127
+ER  - 
+
+TY  - CONF
+TI  - Cloud challenge: Secure end-To-end processing of smart metering data
+T2  - Proceedings - 11th IEEE/ACM International Conference on Utility and Cloud Computing Companion, UCC Companion 2018
+SP  - 19
+EP  - 20
+PY  - 2019
+DO  - 10.1109/UCC-Companion.2018.00031
+AU  - Brito, A.
+AU  - Fetzer, C.
+AU  - Kopsell, S.
+AU  - Pietzuch, P.
+AU  - Pasin, M.
+AU  - Felber, P.
+AU  - Fonseca, K.
+AU  - Rosa, M.
+AU  - Gomes, L.
+AU  - Riella, R.
+AU  - Prado, C.
+AU  - Da Costa Carmo, L.F.R.
+AU  - Lucani, D.
+AU  - Sipos, M.
+AU  - Nagy, L.
+AU  - Feher, M.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8605754
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061838228&doi=10.1109%2fUCC-Companion.2018.00031&partnerID=40&md5=ab43f4e6d59cce4d2f56792aaa56167f
+ER  - 
+
+TY  - CONF
+TI  - Challenges of Securing the Industrial Internet of Things Value Chain
+T2  - 2018 Workshop on Metrology for Industry 4.0 and IoT, MetroInd 4.0 and IoT 2018 - Proceedings
+SP  - 218
+EP  - 223
+PY  - 2018
+DO  - 10.1109/METROI4.2018.8428344
+AU  - Forsstrom, S.
+AU  - Butun, I.
+AU  - Eldefrawy, M.
+AU  - Jennehag, U.
+AU  - Gidlund, M.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8428344
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85052506472&doi=10.1109%2fMETROI4.2018.8428344&partnerID=40&md5=53f85493732cb9d9f56b25c10e5e18d7
+ER  - 
+
+TY  - JOUR
+TI  - Britain's smart meter programme: A case study in privacy by design
+T2  - International Review of Law, Computers and Technology
+VL  - 28
+IS  - 2
+SP  - 172
+EP  - 184
+PY  - 2014
+DO  - 10.1080/13600869.2013.801580
+AU  - Brown, I.
+N1  - Cited By :12
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899900744&doi=10.1080%2f13600869.2013.801580&partnerID=40&md5=4e6a1b9929b62d57a4ea2fbab6b91476
+ER  - 
+
+TY  - JOUR
+TI  - Balancing security and efficiency for smart metering against misbehaving collectors
+T2  - IEEE Transactions on Smart Grid
+VL  - 10
+IS  - 2
+SP  - 1225
+EP  - 1236
+PY  - 2019
+DO  - 10.1109/TSG.2017.2761804
+AU  - Ni, J.
+AU  - Zhang, K.
+AU  - Lin, X.
+AU  - Shen, X.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 8063928
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031813318&doi=10.1109%2fTSG.2017.2761804&partnerID=40&md5=d7f3587a121ee4ca15231fc8fea4e92b
+ER  - 
+
+TY  - JOUR
+TI  - Averting the privacy risks of smart metering by local data preprocessing
+T2  - Pervasive and Mobile Computing
+VL  - 16
+IS  - PA
+SP  - 171
+EP  - 183
+PY  - 2015
+DO  - 10.1016/j.pmcj.2014.10.002
+AU  - Reinhardt, A.
+AU  - Englert, F.
+AU  - Christin, D.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921027832&doi=10.1016%2fj.pmcj.2014.10.002&partnerID=40&md5=39110c9d1b17eeeba3f295b8579cbea2
+ER  - 
+
+TY  - JOUR
+TI  - Attacks, vulnerabilities and security requirements in smart metering networks
+T2  - KSII Transactions on Internet and Information Systems
+VL  - 9
+IS  - 4
+SP  - 1493
+EP  - 1515
+PY  - 2015
+DO  - 10.3837/tiis.2015.04.013
+AU  - Abdullah, M.D.H.
+AU  - Hanapi, Z.M.
+AU  - Zukarnain, Z.A.
+AU  - Mohamed, M.A.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928667971&doi=10.3837%2ftiis.2015.04.013&partnerID=40&md5=e591e43ce120c0f66d0323e53d053c44
+ER  - 
+
+TY  - CONF
+TI  - Attack vectors to metering data in smart grids under security constraints
+T2  - Proceedings - International Computer Software and Applications Conference
+SP  - 134
+EP  - 139
+PY  - 2012
+DO  - 10.1109/COMPSACW.2012.34
+AU  - Skopik, F.
+AU  - Ma, Z.
+N1  - Cited By :16
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6341564
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870843257&doi=10.1109%2fCOMPSACW.2012.34&partnerID=40&md5=a222d3cd6ebc66ff30a2297085117904
+ER  - 
+
+TY  - CONF
+TI  - Assessing the feasibility of fully homomorphic encryption for Smart Grid AMI networks
+T2  - International Conference on Ubiquitous and Future Networks, ICUFN
+VL  - 2015-August
+SP  - 591
+EP  - 596
+PY  - 2015
+DO  - 10.1109/ICUFN.2015.7182613
+AU  - Tonyali, S.
+AU  - Saputro, N.
+AU  - Akkaya, K.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7182613
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944680019&doi=10.1109%2fICUFN.2015.7182613&partnerID=40&md5=5f6961a74f582f30e6944b9229cd8c73
+ER  - 
+
+TY  - CONF
+TI  - Analysis of the impact of data granularity on privacy for the smart grid
+T2  - Proceedings of the ACM Conference on Computer and Communications Security
+SP  - 61
+EP  - 70
+PY  - 2013
+DO  - 10.1145/2517840.2517844
+AU  - Tudor, V.
+AU  - Almgren, M.
+AU  - Papatriantafilou, M.
+N1  - Cited By :15
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84888994740&doi=10.1145%2f2517840.2517844&partnerID=40&md5=7d37c15c073ceb16485391ead2b0980b
+ER  - 
+
+TY  - CONF
+TI  - Analysis of security features in DLMS/COSEM: Vulnerabilities and countermeasures
+T2  - 2018 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2018
+SP  - 1
+EP  - 5
+PY  - 2018
+DO  - 10.1109/ISGT.2018.8403340
+AU  - Lüring, N.
+AU  - Szameitat, D.
+AU  - Hoffmann, S.
+AU  - Bumiller, G.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050673034&doi=10.1109%2fISGT.2018.8403340&partnerID=40&md5=9887c86897134526ec05559b9ba6d038
+ER  - 
+
+TY  - CONF
+TI  - An MPC-based protocol for secure and privacy-preserving smart metering
+T2  - 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe, ISGT-Europe 2017 - Proceedings
+VL  - 2018-January
+SP  - 1
+EP  - 6
+PY  - 2018
+DO  - 10.1109/ISGTEurope.2017.8260202
+AU  - Mustafa, M.A.
+AU  - Cleemput, S.
+AU  - Aly, A.
+AU  - Abidin, A.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046266958&doi=10.1109%2fISGTEurope.2017.8260202&partnerID=40&md5=027aa78ac3e3e0fda0571d38dc6a9e20
+ER  - 
+
+TY  - JOUR
+TI  - An Identity-Based Data Aggregation Protocol for the Smart Grid
+T2  - IEEE Transactions on Industrial Informatics
+VL  - 13
+IS  - 5
+SP  - 2428
+EP  - 2435
+PY  - 2017
+DO  - 10.1109/TII.2017.2705218
+AU  - Wang, Z.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7930453
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85031742030&doi=10.1109%2fTII.2017.2705218&partnerID=40&md5=167a9653cb0d8b93b38fc16d02d4254e
+ER  - 
+
+TY  - CONF
+TI  - An enhanced measurement transmission scheme for privacy protection in smart grid
+T2  - International Conference on Information Networking
+SP  - 18
+EP  - 23
+PY  - 2013
+DO  - 10.1109/ICOIN.2013.6496345
+AU  - Li, S.
+AU  - Choi, K.
+AU  - Chae, K.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6496345
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84876751522&doi=10.1109%2fICOIN.2013.6496345&partnerID=40&md5=81f763c4505bb8192b0ce641a3136d90
+ER  - 
+
+TY  - CONF
+TI  - An empirical model for smart meters using data security
+T2  - 2014 IEEE PES Innovative Smart Grid Technologies Conference, ISGT 2014
+PY  - 2014
+DO  - 10.1109/ISGT.2014.6816417
+AU  - Azghandi, S.
+AU  - Hopkinson, K.M.
+AU  - McTasney, R.J.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6816417
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84901921526&doi=10.1109%2fISGT.2014.6816417&partnerID=40&md5=6f8fe38f66cb18dafeca082b9fa3c4ca
+ER  - 
+
+TY  - JOUR
+TI  - An efficient security protocol for advanced metering infrastructure in smart grid
+T2  - IEEE Network
+VL  - 27
+IS  - 4
+SP  - 64
+EP  - 71
+PY  - 2013
+DO  - 10.1109/MNET.2013.6574667
+AU  - Yan, Y.
+AU  - Hu, R.
+AU  - Das, S.K.
+AU  - Sharif, H.
+AU  - Qian, Y.
+N1  - Cited By :37
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6574667
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881483965&doi=10.1109%2fMNET.2013.6574667&partnerID=40&md5=70aa678bc140e94ee442992c756037ae
+ER  - 
+
+TY  - JOUR
+TI  - An efficient privacy-preserving comparison protocol in smart metering systems
+T2  - Eurasip Journal on Information Security
+VL  - 2016
+IS  - 1
+PY  - 2016
+DO  - 10.1186/s13635-016-0033-4
+AU  - Nateghizad, M.
+AU  - Erkin, Z.
+AU  - Lagendijk, R.L.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 11
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84971278474&doi=10.1186%2fs13635-016-0033-4&partnerID=40&md5=14e15d8611210f7e6b6b42336654b18d
+ER  - 
+
+TY  - CONF
+TI  - An efficient intrusion detection scheme for cluster based AMI networks
+T2  - ICOSST 2016 - 2016 International Conference on Open Source Systems and Technologies, Proceedings
+SP  - 95
+EP  - 101
+PY  - 2017
+DO  - 10.1109/ICOSST.2016.7838584
+AU  - Shahzad, M.
+AU  - Ashraf, M.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7838584
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85015302228&doi=10.1109%2fICOSST.2016.7838584&partnerID=40&md5=bd7c7e8e5e11ec19694199550440cad8
+ER  - 
+
+TY  - CONF
+TI  - An anonymized authentication framework for smart metering data privacy
+T2  - 2016 IEEE Power and Energy Society Innovative Smart Grid Technologies Conference, ISGT 2016
+PY  - 2016
+DO  - 10.1109/ISGT.2016.7781185
+AU  - Afrin, S.
+AU  - Mishra, S.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7781185
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010634448&doi=10.1109%2fISGT.2016.7781185&partnerID=40&md5=9c847bc4b4c0812321f2205ebd22a6a3
+ER  - 
+
+TY  - CONF
+TI  - An Algorithmic Method for Tampering-Proof and Privacy-Preserving Smart Metering
+T2  - Proceedings - IEEE 16th International Conference on Industrial Informatics, INDIN 2018
+SP  - 459
+EP  - 465
+PY  - 2018
+DO  - 10.1109/INDIN.2018.8471959
+AU  - Li, D.
+AU  - Zhao, Y.
+AU  - Zhang, Y.
+AU  - Lv, Q.
+AU  - Shang, L.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8471959
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055555762&doi=10.1109%2fINDIN.2018.8471959&partnerID=40&md5=02acb2af7816ad1c3e0262908eb88784
+ER  - 
+
+TY  - CONF
+TI  - AgSec: Secure and efficient CDMA-based aggregation for smart metering systems
+T2  - 2014 IEEE 11th Consumer Communications and Networking Conference, CCNC 2014
+SP  - 489
+EP  - 494
+PY  - 2014
+DO  - 10.1109/CCNC.2014.6866615
+AU  - Alamatsaz, N.
+AU  - Boustani, A.
+AU  - Jadliwala, M.
+AU  - Namboodiri, V.
+N1  - Cited By :4
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6866615
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906833444&doi=10.1109%2fCCNC.2014.6866615&partnerID=40&md5=f686937ff09707d6e6cf847f0c138673
+ER  - 
+
+TY  - CONF
+TI  - Aggregation architecture for data reduction and privacy in advanced metering infrastructure
+T2  - 2017 IEEE PES Innovative Smart Grid Technologies Conference - Latin America, ISGT Latin America 2017
+VL  - 2017-January
+SP  - 1
+EP  - 5
+PY  - 2017
+DO  - 10.1109/ISGT-LA.2017.8126704
+AU  - Foreman, J.C.
+AU  - Pacheco, F.E.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043473074&doi=10.1109%2fISGT-LA.2017.8126704&partnerID=40&md5=1a31d0d3df9b2ca61106e90814f010f7
+ER  - 
+
+TY  - CONF
+TI  - Advance metering infrastructure for smart grid using GSM
+T2  - ICONSTEM 2017 - Proceedings: 3rd IEEE International Conference on Science Technology, Engineering and Management
+VL  - 2018-January
+SP  - 619
+EP  - 622
+PY  - 2018
+DO  - 10.1109/ICONSTEM.2017.8261396
+AU  - Kavithakumari, K.S.
+AU  - Paul, P.P.
+AU  - Catherineamalapriya, E.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046418252&doi=10.1109%2fICONSTEM.2017.8261396&partnerID=40&md5=47fd852a1e68b3fab18751b1b91e1c6e
+ER  - 
+
+TY  - CONF
+TI  - ADSNARK: Nearly practical and privacy-preserving proofs on authenticated data
+T2  - Proceedings - IEEE Symposium on Security and Privacy
+VL  - 2015-July
+SP  - 271
+EP  - 286
+PY  - 2015
+DO  - 10.1109/SP.2015.24
+AU  - Backes, M.
+AU  - Barbosa, M.
+AU  - Fiore, D.
+AU  - Reischuk, R.M.
+N1  - Cited By :32
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7163031
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945174317&doi=10.1109%2fSP.2015.24&partnerID=40&md5=cd6afebd6805446937187022d217d3bf
+ER  - 
+
+TY  - JOUR
+TI  - Adept smart meters using homomorphic encryption based on factor problem over groups
+T2  - Information and Learning Science
+VL  - 119
+IS  - 12
+SP  - 701
+EP  - 711
+PY  - 2018
+DO  - 10.1108/ILS-07-2018-0063
+AU  - Valisireddy, J.
+AU  - Anjaneyulu, G.S.G.N.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85054648613&doi=10.1108%2fILS-07-2018-0063&partnerID=40&md5=811d229c8ca48bf48951a19d36261f36
+ER  - 
+
+TY  - JOUR
+TI  - Achieving high performance and privacy-preserving query over encrypted multidimensional big metering data
+T2  - Future Generation Computer Systems
+VL  - 78
+SP  - 392
+EP  - 401
+PY  - 2018
+DO  - 10.1016/j.future.2016.05.005
+AU  - Jiang, R.
+AU  - Lu, R.
+AU  - Choo, K.-K.R.
+N1  - Cited By :12
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969960209&doi=10.1016%2fj.future.2016.05.005&partnerID=40&md5=4807623be93e544f26cd82176b18bb6e
+ER  - 
+
+TY  - CONF
+TI  - Achieving differential privacy of data disclosure in the smart grid
+T2  - Proceedings - IEEE INFOCOM
+SP  - 504
+EP  - 512
+PY  - 2014
+DO  - 10.1109/INFOCOM.2014.6847974
+AU  - Zhao, J.
+AU  - Jung, T.
+AU  - Wang, Y.
+AU  - Li, X.
+N1  - Cited By :47
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6847974
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904437773&doi=10.1109%2fINFOCOM.2014.6847974&partnerID=40&md5=6b8de82a32d22d485542f2d1462e6fb8
+ER  - 
+
+TY  - CONF
+TI  - Acceptance of ICT-intensive socio-technical infrastructure systems: Smart metering case in the Netherlands
+T2  - Proceedings of the 11th IEEE International Conference on Networking, Sensing and Control, ICNSC 2014
+SP  - 399
+EP  - 404
+PY  - 2014
+DO  - 10.1109/ICNSC.2014.6819659
+AU  - Alabdulkarim, L.
+AU  - Molin, E.
+AU  - Lukszo, Z.
+AU  - Fens, T.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6819659
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84902377968&doi=10.1109%2fICNSC.2014.6819659&partnerID=40&md5=3922adf08bbf799e9ac5cdd6df3d2370
+ER  - 
+
+TY  - CONF
+TI  - Abstracted architecture for Smart Grid privacy analysis
+T2  - Proceedings - SocialCom/PASSAT/BigData/EconCom/BioMedCom 2013
+SP  - 637
+EP  - 646
+PY  - 2013
+DO  - 10.1109/SocialCom.2013.96
+AU  - Laakkonen, J.
+AU  - Annala, S.
+AU  - Jäppinen, P.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6693393
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893594820&doi=10.1109%2fSocialCom.2013.96&partnerID=40&md5=36e5f061ec0fa595b10f48ebaa220add
+ER  - 
+
+TY  - JOUR
+TI  - A user-transparent pseudonym renewal scheme for smart meters in incentive-based demand response programs
+T2  - International Journal of Electrical Power and Energy Systems
+VL  - 109
+SP  - 49
+EP  - 56
+PY  - 2019
+DO  - 10.1016j.ijepes.2019.01.046
+AU  - Zhang, S.
+AU  - Wang, K.
+AU  - Wang, B.
+N1  - Export Date 3 April 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.cominwardrecord.urieid=2-s2.0-85061000787&doi=10.1016%2fj.ijepes.2019.01.046&partnerID=40&md5=eac0bfaa980049595f8e4fce0128831f
+ER  - 
+
+TY  - JOUR
+TI  - A Technique to provide differential privacy for appliance usage in smart metering
+T2  - Information Sciences
+VL  - 370-371
+SP  - 355
+EP  - 367
+PY  - 2016
+DO  - 10.1016/j.ins.2016.08.011
+AU  - Barbosa, P.
+AU  - Brito, A.
+AU  - Almeida, H.
+N1  - Cited By :11
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84981276445&doi=10.1016%2fj.ins.2016.08.011&partnerID=40&md5=341f69588c3eccc0d2bf7839c04c25e3
+ER  - 
+
+TY  - JOUR
+TI  - A systematic review of data protection and privacy preservation schemes for smart grid communications
+T2  - Sustainable Cities and Society
+VL  - 38
+SP  - 806
+EP  - 835
+PY  - 2018
+DO  - 10.1016/j.scs.2017.12.041
+AU  - Ferrag, M.A.
+AU  - Maglaras, L.A.
+AU  - Janicke, H.
+AU  - Jiang, J.
+AU  - Shu, L.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043252174&doi=10.1016%2fj.scs.2017.12.041&partnerID=40&md5=cc211d7925fe89bb2a12ea8aec71da79
+ER  - 
+
+TY  - SER
+TI  - A survey on privacy in residential demand side management applications
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 8448
+SP  - 154
+EP  - 165
+PY  - 2014
+DO  - 10.1007/978-3-319-10329-7_10
+AU  - Karwe, M.
+AU  - Strüker, J.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84927588473&doi=10.1007%2f978-3-319-10329-7_10&partnerID=40&md5=9ced135da33a975deddc5d5fd9a16074
+ER  - 
+
+TY  - JOUR
+TI  - A survey of privacy preserving schemes in IoE enabled Smart Grid Advanced Metering Infrastructure
+T2  - Cluster Computing
+VL  - 22
+IS  - 1
+SP  - 43
+EP  - 69
+PY  - 2019
+DO  - 10.1007/s10586-018-2820-9
+AU  - Desai, S.
+AU  - Alhadad, R.
+AU  - Chilamkurti, N.
+AU  - Mahmood, A.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050591058&doi=10.1007%2fs10586-018-2820-9&partnerID=40&md5=86ad48530adaab3c2a389190aab34199
+ER  - 
+
+TY  - CONF
+TI  - A study on data de-pseudonymization in the smart grid
+T2  - Proceedings of the 8th European Workshop on System Security, EuroSec 2015
+PY  - 2015
+DO  - 10.1145/2751323.2751325
+AU  - Tudor, V.
+AU  - Almgren, M.
+AU  - Papatriantafilou, M.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - a2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84959440673&doi=10.1145%2f2751323.2751325&partnerID=40&md5=78d1d07343cef31c7f04184d7e503fbb
+ER  - 
+
+TY  - CONF
+TI  - A security framework for smart metering with multiple data consumers
+T2  - Proceedings - IEEE INFOCOM
+SP  - 103
+EP  - 108
+PY  - 2012
+DO  - 10.1109/INFCOMW.2012.6193469
+AU  - Rottondi, C.
+AU  - Verticale, G.
+AU  - Capone, A.
+N1  - Cited By :13
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6193469
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84862109345&doi=10.1109%2fINFCOMW.2012.6193469&partnerID=40&md5=34376808d26809fb95a337e2ea5d755b
+ER  - 
+
+TY  - SER
+TI  - A secure architecture for smart meter systems
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7672 LNCS
+SP  - 108
+EP  - 122
+PY  - 2012
+DO  - 10.1007/978-3-642-35362-8_10
+AU  - Angermeier, D.
+AU  - Böttinger, K.
+AU  - Ibing, A.
+AU  - Schuster, D.
+AU  - Stumpf, F.
+AU  - Wacker, D.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84871396643&doi=10.1007%2f978-3-642-35362-8_10&partnerID=40&md5=f78fc98a7420e8e112f6e37fadf95e5c
+ER  - 
+
+TY  - CONF
+TI  - A secure and privacy-preserving communication scheme for advanced metering infrastructure
+T2  - 2012 IEEE PES Innovative Smart Grid Technologies, ISGT 2012
+PY  - 2012
+DO  - 10.1109/ISGT.2012.6175681
+AU  - Deng, P.
+AU  - Yang, L.
+N1  - Cited By :38
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6175681
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860863989&doi=10.1109%2fISGT.2012.6175681&partnerID=40&md5=0ba063bc456a0d652153519b0aab4124
+ER  - 
+
+TY  - SER
+TI  - A scalable scheme for privacy-preserving aggregation of time-series data
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7859 LNCS
+SP  - 111
+EP  - 125
+PY  - 2013
+DO  - 10.1007/978-3-642-39884-1_10
+AU  - Joye, M.
+AU  - Libert, B.
+N1  - Cited By :26
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883309767&doi=10.1007%2f978-3-642-39884-1_10&partnerID=40&md5=9c329cf8ba481f28ce063a7a4ecc36cd
+ER  - 
+
+TY  - CONF
+TI  - A review on smart grid network security issues over 6LoWPAN
+T2  - ACM International Conference Proceeding Series
+PY  - 2017
+DO  - 10.1145/3018896.3056797
+AU  - Ibhaze, A.E.
+AU  - Akpabio, M.U.
+AU  - John, S.N.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - a180
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044667078&doi=10.1145%2f3018896.3056797&partnerID=40&md5=6befeabf3efb8072fa265bbf7e32601b
+ER  - 
+
+TY  - CONF
+TI  - A reliable data aggregation mechanism with Homomorphic Encryption in Smart Grid AMI networks
+T2  - 2016 13th IEEE Annual Consumer Communications and Networking Conference, CCNC 2016
+SP  - 550
+EP  - 555
+PY  - 2016
+DO  - 10.1109/CCNC.2016.7444839
+AU  - Tonyali, S.
+AU  - Akkaya, K.
+AU  - Saputro, N.
+AU  - Uluagac, A.S.
+N1  - Cited By :8
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7444839
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84966593379&doi=10.1109%2fCCNC.2016.7444839&partnerID=40&md5=508dd9d00c6c726e8232cb7d0e549b39
+ER  - 
+
+TY  - JOUR
+TI  - A realistic performance evaluation of privacy-preserving protocols for smart grid AMI networks
+T2  - Journal of Network and Computer Applications
+VL  - 119
+SP  - 24
+EP  - 41
+PY  - 2018
+DO  - 10.1016/j.jnca.2018.06.011
+AU  - Tonyali, S.
+AU  - Munoz, R.
+AU  - Akkaya, K.
+AU  - Ozgur, U.
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85049357076&doi=10.1016%2fj.jnca.2018.06.011&partnerID=40&md5=c58619fa27545e76653e7d9f1d536a1e
+ER  - 
+
+TY  - JOUR
+TI  - A randomized response model for privacy preserving smart metering
+T2  - IEEE Transactions on Smart Grid
+VL  - 3
+IS  - 3
+SP  - 1317
+EP  - 1324
+PY  - 2012
+DO  - 10.1109/TSG.2012.2192487
+AU  - Wang, S.
+AU  - Cui, L.
+AU  - Que, J.
+AU  - Choi, D.-H.
+AU  - Jiang, X.
+AU  - Cheng, S.
+AU  - Xie, L.
+N1  - Cited By :41
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6203629
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84865445591&doi=10.1109%2fTSG.2012.2192487&partnerID=40&md5=ffe0071a0695f8b4eca5ced9932f0b5d
+ER  - 
+
+TY  - JOUR
+TI  - A protocol for metering data pseudonymization in smart grids
+T2  - Transactions on Emerging Telecommunications Technologies
+VL  - 26
+IS  - 5
+SP  - 876
+EP  - 892
+PY  - 2015
+DO  - 10.1002/ett.2760
+AU  - Rottondi, C.
+AU  - Mauri, G.
+AU  - Verticale, G.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84954547214&doi=10.1002%2fett.2760&partnerID=40&md5=611a5ce2b0539f0ca9c2d3788749aeeb
+ER  - 
+
+TY  - JOUR
+TI  - A privacy-preserving smart metering scheme using linkable anonymous credential
+T2  - IEEE Transactions on Smart Grid
+VL  - 6
+IS  - 1
+SP  - 461
+EP  - 467
+PY  - 2015
+DO  - 10.1109/TSG.2014.2358225
+AU  - Diao, F.
+AU  - Zhang, F.
+AU  - Cheng, X.
+N1  - Cited By :19
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6910301
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84919924796&doi=10.1109%2fTSG.2014.2358225&partnerID=40&md5=f545be54ddd9aec50aeaf9073695fc22
+ER  - 
+
+TY  - JOUR
+TI  - A Privacy-Preserving Scheme for Incentive-Based Demand Response in the Smart Grid
+T2  - IEEE Transactions on Smart Grid
+VL  - 7
+IS  - 3
+SP  - 1304
+EP  - 1313
+PY  - 2016
+DO  - 10.1109/TSG.2015.2412091
+AU  - Gong, Y.
+AU  - Cai, Y.
+AU  - Guo, Y.
+AU  - Fang, Y.
+N1  - Cited By :49
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 7069275
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961291984&doi=10.1109%2fTSG.2015.2412091&partnerID=40&md5=d607f4a1f16ee3631815ad9b9900b1cf
+ER  - 
+
+TY  - CONF
+TI  - A privacy-friendly smart metering architecture with few-instance storage
+T2  - 2015 15th International Conference on Innovations for Community Services, I4CS 2015
+PY  - 2015
+DO  - 10.1109/I4CS.2015.7294485
+AU  - Mohammad, A.
+AU  - Stader, J.
+AU  - Westhoff, D.
+N1  - Cited By :1
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7294485
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84954547595&doi=10.1109%2fI4CS.2015.7294485&partnerID=40&md5=c244279dd0f892a088901e4293d3abb5
+ER  - 
+
+TY  - JOUR
+TI  - A privacy-friendly gaming framework in smart electricity and water grids
+T2  - IEEE Access
+VL  - 5
+SP  - 14221
+EP  - 14233
+PY  - 2017
+DO  - 10.1109/ACCESS.2017.2727552
+AU  - Rottondi, C.
+AU  - Verticale, G.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027034963&doi=10.1109%2fACCESS.2017.2727552&partnerID=40&md5=84b8bd4628341c231b51734e9bb97b97
+ER  - 
+
+TY  - CONF
+TI  - A privacy-aware communication scheme in Advanced Metering Infrastructure (AMI) systems
+T2  - IEEE Wireless Communications and Networking Conference, WCNC
+SP  - 1860
+EP  - 1863
+PY  - 2013
+DO  - 10.1109/WCNC.2013.6554847
+AU  - Chen, S.
+AU  - Xu, K.
+AU  - Li, Z.
+AU  - Yin, F.
+AU  - Wang, H.
+N1  - Cited By :5
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6554847
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881604443&doi=10.1109%2fWCNC.2013.6554847&partnerID=40&md5=ddbb5c68fd40e2ce3645d5084b65cce1
+ER  - 
+
+TY  - CONF
+TI  - A privacy preserving smart metering system supporting multiple time granularities
+T2  - Proceedings of the 2012 IEEE 6th International Conference on Software Security and Reliability Companion, SERE-C 2012
+SP  - 119
+EP  - 126
+PY  - 2012
+DO  - 10.1109/SERE-C.2012.22
+AU  - Lin, H.-Y.
+AU  - Shen, S.-T.
+AU  - Lin, B.-S.P.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6258459
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866928541&doi=10.1109%2fSERE-C.2012.22&partnerID=40&md5=45baa3daf5a3ef8c66bb0d99a6bc43c3
+ER  - 
+
+TY  - SER
+TI  - A Privacy Preserving Approach to Smart Metering
+T2  - Communications in Computer and Information Science
+VL  - 381 CCIS
+SP  - 164
+EP  - 176
+PY  - 2013
+DO  - 10.1007/978-3-642-40597-6_14
+AU  - Shinwari, M.
+AU  - Youssef, A.
+AU  - Hamouda, W.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904645654&doi=10.1007%2f978-3-642-40597-6_14&partnerID=40&md5=42fbcd39ba46a0d9dbc6da51bd866464
+ER  - 
+
+TY  - CONF
+TI  - A privacy preserving approach to energy theft detection in smart grids
+T2  - IEEE 2nd International Smart Cities Conference: Improving the Citizens Quality of Life, ISC2 2016 - Proceedings
+PY  - 2016
+DO  - 10.1109/ISC2.2016.7580882
+AU  - Richardson, C.
+AU  - Race, N.
+AU  - Smith, P.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7580882
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84994181815&doi=10.1109%2fISC2.2016.7580882&partnerID=40&md5=bfc5ef8c1f07657aa3cacb2bb4c637fb
+ER  - 
+
+TY  - SER
+TI  - A novel privacy-enhanced AMI system using searchable and homomorphic encryption techniques
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7425 LNCS
+SP  - 608
+EP  - 617
+PY  - 2012
+DO  - 10.1007/978-3-642-32645-5_76
+AU  - Lee, C.
+AU  - Yang, H.
+AU  - Lee, B.
+AU  - Won, D.
+N1  - Cited By :2
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866025274&doi=10.1007%2f978-3-642-32645-5_76&partnerID=40&md5=0403972781588624c1b86f40da271b75
+ER  - 
+
+TY  - CONF
+TI  - A Living Lab and Testing Infrastructure for the Development of Innovative Smart Energy Solutions: The eLUX Laboratory of the University of Brescia
+T2  - 2018 110th AEIT International Annual Conference, AEIT 2018
+PY  - 2018
+DO  - 10.23919/AEIT.2018.8577329
+AU  - Flammini, A.
+AU  - Pasetti, M.
+AU  - Rinaldi, S.
+AU  - Bellagente, P.
+AU  - Ciribini, A.C.
+AU  - Tagliabue, L.C.
+AU  - Zavanella, L.E.
+AU  - Zanoni, S.
+AU  - Oggioni, G.
+AU  - Pedrazzi, G.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8577329
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060285304&doi=10.23919%2fAEIT.2018.8577329&partnerID=40&md5=67062aff0f35c973b34a5eb7142618cb
+ER  - 
+
+TY  - CONF
+TI  - A lightweight privacy-preserving scheme for metering data collection in smart grid
+T2  - 18th IEEE International Symposium on A World of Wireless, Mobile and Multimedia Networks, WoWMoM 2017 - Conference
+PY  - 2017
+DO  - 10.1109/WoWMoM.2017.7974337
+AU  - Zeng, X.
+AU  - Liu, Q.
+AU  - Huang, H.
+AU  - Jia, X.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 7974337
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027549184&doi=10.1109%2fWoWMoM.2017.7974337&partnerID=40&md5=8d5634ee139d42eb8bf6936912f425b5
+ER  - 
+
+TY  - JOUR
+TI  - A lightweight authentication and key agreement scheme for smart grid
+T2  - International Journal of Distributed Sensor Networks
+VL  - 13
+IS  - 2
+PY  - 2017
+DO  - 10.1177/1550147717694173
+AU  - Yan, L.
+AU  - Chang, Y.
+AU  - Zhang, S.
+N1  - Cited By :3
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85014530478&doi=10.1177%2f1550147717694173&partnerID=40&md5=0f1b8a2cd5a0384d9a39418479e4901c
+ER  - 
+
+TY  - CONF
+TI  - A graph-based semi-supervised learning approach towards household energy disaggregation
+T2  - IEEE International Conference on Fuzzy Systems
+PY  - 2017
+DO  - 10.1109/FUZZ-IEEE.2017.8015650
+AU  - Li, D.
+AU  - Dick, S.
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 8015650
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030161491&doi=10.1109%2fFUZZ-IEEE.2017.8015650&partnerID=40&md5=3e8cff3b3917d8415e6a38f73631dead
+ER  - 
+
+TY  - JOUR
+TI  - A game theoretical analysis of data confidentiality attacks on smart-grid AMI
+T2  - IEEE Journal on Selected Areas in Communications
+VL  - 32
+IS  - 7
+SP  - 1486
+EP  - 1499
+PY  - 2014
+DO  - 10.1109/JSAC.2014.2332095
+AU  - Ismail, Z.
+AU  - Leneutre, J.
+AU  - Bateman, D.
+AU  - Chen, L.
+N1  - Cited By :12
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6840293
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906687614&doi=10.1109%2fJSAC.2014.2332095&partnerID=40&md5=67ce048099fd2b796b3bb1186c79e0ed
+ER  - 
+
+TY  - JOUR
+TI  - A distortion-based approach to privacy-preserving metering in smart grids
+T2  - IEEE Access
+VL  - 1
+SP  - 67
+EP  - 78
+PY  - 2013
+DO  - 10.1109/ACCESS.2013.2260815
+AU  - He, X.
+AU  - Zhang, X.
+AU  - Kuo, C.-C.J.
+N1  - Cited By :17
+N1  - Export Date: 15 March 2019
+M3  - Article
+DB  - Scopus
+C7  - 6514815
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921650600&doi=10.1109%2fACCESS.2013.2260815&partnerID=40&md5=8c201ef3d5d98b23278722c437c95295
+ER  - 
+
+TY  - CONF
+TI  - A decisional attack to privacy-friendly data aggregation in Smart Grids
+T2  - GLOBECOM - IEEE Global Telecommunications Conference
+SP  - 2616
+EP  - 2621
+PY  - 2013
+DO  - 10.1109/GLOCOM.2013.6831469
+AU  - Rottondi, C.
+AU  - Savi, M.
+AU  - Polenghi, D.
+AU  - Verticale, G.
+AU  - Krausß, C.
+N1  - Cited By :7
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6831469
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84904127863&doi=10.1109%2fGLOCOM.2013.6831469&partnerID=40&md5=7418fad743878b21cfd2201753a5a79f
+ER  - 
+
+TY  - CONF
+TI  - A data pseudonymization protocol for Smart Grids
+T2  - 2012 IEEE Online Conference on Green Communications, GreenCom 2012
+SP  - 68
+EP  - 73
+PY  - 2012
+DO  - 10.1109/GreenCom.2012.6519618
+AU  - Rottondi, C.
+AU  - Mauri, G.
+AU  - Verticale, G.
+N1  - Cited By :15
+N1  - Export Date: 15 March 2019
+M3  - Conference Paper
+DB  - Scopus
+C7  - 6519618
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879487927&doi=10.1109%2fGreenCom.2012.6519618&partnerID=40&md5=2d341585b26ea920a252130eb3ee1c29
+ER  - 
+
+
+
+
+
+
