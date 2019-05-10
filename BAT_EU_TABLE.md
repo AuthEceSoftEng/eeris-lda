@@ -1,5 +1,5 @@
 | Domain | Application | Techniques |
-| ------ | ----------- | ---------- |
+| :----- | :---------- | :--------- |
 | Cryptography | Symmetric Ciphers | AES, DES |
 | Cryptography | Asymmetric Ciphers | ECC-Brainpool or NIST Curves, RSA |
 | Cryptography | Symmetric Cipher Modes and MACs | CTR, CBC, ECB, GCM, CMAC, CCM, HMAC |
