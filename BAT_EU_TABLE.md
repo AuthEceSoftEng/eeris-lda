@@ -1,3 +1,9 @@
+## Smart Metering Security and Privacy Techniques Clustering per type/domain of application
+### Reference
+[Best Available Techniques Reference Document for the cyber-security and privacy of the 10 minimum functional
+requirements of the Smart Metering Systems](https://ec.europa.eu/energy/sites/ener/files/documents/bat_wp4_bref_smart-metering_systems_final_deliverable.pdf)
+
+
 | Domain | Application | Techniques |
 | :----- | :---------- | :--------- |
 | Cryptography | Symmetric Ciphers | AES, DES |
