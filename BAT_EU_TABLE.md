@@ -16,19 +16,19 @@
 | Hardware Security | Secure Storage | HSM, Encrypted Storage, μP Hardening |
 | Hardware Security | Tamper Detect | Magnetic Field Sensor, Tamper Switch, Geometric Low-Relieves, Hot Blade Welding, Embedded RFID Tag, Seal |
 | Hardware Security | Secure Operation | Detection of Abnormal Chip Operating Conditions, SPA/DPA Protected Executable |
-| Access Control | | |
-| Access Control | | |
-| Access Control | | |
-| Access Control | | |
-| Monitoring | | |
-| Monitoring | | |
-| Monitoring | | |
-| Transport | | |
-| Transport | | |
-| Transport | | |
-| Time Synchronization | | |
-| Privacy | | |
-| Privacy | | |
-| Privacy | | |
-| Privacy | | |
-| Privacy | | |
+| Access Control | Physical Protection | Radio, Local Interface, Read Only Interface, Local Storage, Local Display |
+| Access Control | Network Defense in Depth | VPN, Firewall/IPS |
+| Access Control | Malware Protection | Application Whitelisting |
+| Access Control | Authentication Mechanisms | PKI, Client Certificate, One Time Password, Multi Factor, Profile Based, Shared secrets (TACACS+, Kerberos, LDAP, Password, PIN, OpenId) |
+| Monitoring | Device Tampering | Tamper Detect Sensor, Tamper Switch, Event Log, Net Frequency |
+| Monitoring | Head End System | Audit Trail |
+| Monitoring | Analysis and Detection | SIEM, Alarm, Lock-out |
+| Transport | Transport Format | XML, CMS, M-Bus, DLMS, SEP, FTP, EDIFACT, SMS |
+| Transport | Secure Transport | ZigBee, DLMS, CMS, TLS, IPSEC, SFTP, Broadcast |
+| Transport | Transport Medium | Ethernet, M-Bus, OMS4, Radio Mesh, LTE, GSM, GPRS, CDMA, ZigBee, PLC |
+| Time Synchronization | Time Synchronization Assurance | Synchronization Period, Network Time Resilience |
+| Privacy | Frequency | Transmission, Reading |
+| Privacy | Privacy Preservation | Transparency: Local Processing, Aggregation, Privacy by Design, Pseudonymization |
+| Privacy | Purpose Limitation | Level of Detail, Transmission Frequency, Reading Frequency |
+| Privacy | Compliance to Requirements | Retention |
+| Privacy | Legitimacy of Processing Personal Data | Consumer Choice: Opt-In/Opt-Out |
