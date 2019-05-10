@@ -12,8 +12,7 @@ The research work conducted in this context is comprised of three parts:
 The details and results of this work are presented in this paper:
 <PLACEHOLDER_FOR_LINK1>
 
-On top of the above, a table of security and privacy techniques for smart metering systems, classified per type/domain of application, is provided in the below link:
-<PLACEHOLDER_FOR_LINK2>
+On top of the above, a table of security and privacy techniques for smart metering systems, classified per type/domain of application, is provided [here](https://github.com/AuthEceSoftEng/eeris-lda/blob/master/BAT_EU_TABLE.md).
 
 This table is a product of a two-year assessment of the Best Available Techniques (BATs) for security and privacy in smart metering systems (2014-2016), that was carried out by the Smart Grids Task Force (a consortium set up by the European Commission to advise on issues with regards to smart grids development and deployment) with the assistance of external stakeholders.
 
