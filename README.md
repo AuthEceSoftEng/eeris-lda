@@ -9,8 +9,7 @@ The research work conducted in this context is comprised of three parts:
 - A presentation of EU initiatives
 - A data-driven analysis of a large corpus of publications aiming at identifying topics (or themes) of the collection
 
-The details and results of this work are presented in this paper:
-<PLACEHOLDER_FOR_LINK1>
+The details and results of this work are presented in this [paper](https://drive.google.com/open?id=1yR6OMbR7BRmrwn_844rWJGFbb349CQZl).
 
 On top of the above, a table of security and privacy techniques for smart metering systems, clustered according to the type/domain of application, is provided [here](https://github.com/AuthEceSoftEng/eeris-lda/blob/master/BAT_EU_TABLE.md).
 
