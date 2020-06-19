@@ -2,7 +2,7 @@
 Summarization in the field of Smart Metering Security and Privacy.
 
 # About
-This repository is created in the context of a research work in the [eeRIS project](http://eeris.web.auth.gr) that aims at identifying categories of techniques in the field of Security and Pivacy in Smart Metering Systems.
+This repository is created in the context of a research work in the [eeris project](http://eeris.web.auth.gr) that aims at identifying categories of techniques in the field of Security and Pivacy in Smart Metering Systems.
 
 The research work conducted in this context is comprised of three parts:
 - A field research survey
